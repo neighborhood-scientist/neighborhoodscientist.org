@@ -44,8 +44,7 @@ Copyright (c) 2025 Your Neighborhood Scientist
 ## Software
 
 Unless otherwise noted, the software provided by Your Neighborhood Scientist is
-licensed under the [MIT License](#mit-license).
-
+li
 ### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
