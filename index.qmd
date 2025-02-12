@@ -1,0 +1,21 @@
+---
+title: "Latest posts"
+description: "from Your Neighborhood Scientist"
+listing:
+  id: posts
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+#include-after-body: subscribe-form.html
+---
+
+[Subscribe  to our newsletter!](subscribe.qmd){.btn .btn-danger}
+
+:::{#posts}
+:::

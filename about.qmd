@@ -1,0 +1,24 @@
+---
+title: "About"
+image: TODO
+about:
+  template: jolla
+  id: about
+  links:
+    - icon: envelope
+      href: mailto:your@neighborhoodscientist.org
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/your.neighborhoodscientist.org
+      rel: me
+    - icon: mastodon
+      href: https://mastodon.social/@your.neighborhoodscientist.org@bsky.brid.gy
+      rel: me
+    - icon: facebook
+      href: https://TODO
+    - icon: github
+      href: https://github.com/neighborhood-scientist
+---
+
+:::{#about}
+TODO About this blog
+:::

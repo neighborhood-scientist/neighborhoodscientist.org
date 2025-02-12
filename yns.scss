@@ -1,0 +1,78 @@
+/*-- scss:defaults --*/
+
+// colors
+
+// primary colors
+$black: #000000;
+$white: #ffffff;
+$gray-800: #343a40;
+$gray-900: #212529;
+
+// brand colors created by Katie
+$slate: #283d3b;
+$caribbean: #19727b;
+$champagne: #edddd4;
+$persian: #c44536;
+$burnt: #772e25;
+
+// set colors
+$primary: $caribbean;
+$secondary: $slate;
+$success: $caribbean;
+$warning: $burnt;
+$danger: $persian;
+$info: $caribbean;
+
+//$body-bg: $champagne;
+$link-color: $slate;
+$link-decoration: underline;
+
+$navbar-bg: $caribbean;
+$navbar-fg: $white;
+$navbar-hl: $champagne;
+$footer-bg: $caribbean;
+$footer-fg: $white;
+$footer-hl: $champagne;
+//$sidebar-hl: $caribbean;
+
+$code-block-bg-alpha: -0.8;
+$code-bg-alpha: -0.8;
+$code-alpha: 0.9;
+$code-bg: $champagne;
+$code-color: $caribbean;
+
+$callout-color-tip: $slate;
+$callout-color-note: $caribbean;
+$callout-color-caution: $burnt;
+$callout-color-warning: $persian;
+
+.footer {
+  border-top: 3px groove $slate;
+}
+// font
+//$font-family-sans-serif: "Roboto", Helvetica, "Source Sans Pro", sans-serif;
+//$font-family-monospace: "Roboto Mono", "Andale Mono" "Source Code Pro", monospace;
+
+/*-- scss:rules --*/
+// https://github.com/quarto-dev/quarto-cli/blob/b822c3f5cc2b7dd57238bed2bcbbd2c2ed7688b8/src/resources/formats/html/bootstrap/themes/lumen.scss#L119-L133
+
+// Mixins
+
+@mixin shadow($width: 4px) {
+  border-style: solid;
+  border-width: 0 1px $width 1px;
+}
+
+// about page
+
+div.quarto-about-jolla .about-link {
+  font-size: 1em;
+  border-style: none;
+  transition: all 0.35s ease;
+}
+
+div.quarto-about-trestles .about-entity .about-link {
+  font-size: 1em;
+  border-style: none;
+  transition: all 0.35s ease;
+}

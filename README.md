@@ -1,4 +1,3 @@
-# neighborhoodscientist.org
-Your Neighborhood Scientist website
+# Your Neighborhood Scientist website
 
 <https://neighborhoodscientist.org>

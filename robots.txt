@@ -1,0 +1,4 @@
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://neighborhoodscientist.org/sitemap.xml
