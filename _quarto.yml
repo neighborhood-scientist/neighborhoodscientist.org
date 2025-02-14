@@ -1,0 +1,50 @@
+project:
+  type: website
+
+website:
+  title: "Your Neighborhood Scientist"
+  site-url: https://neighborhoodscientist.org
+  description: "science news for everyone"
+  repo-url: https://github.com/neighborhood-scientist/neighborhoodscientist.org
+  #favicon: TODO
+  open-graph: true
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - about.qmd
+      - text: Subscribe
+        href: subscribe.qmd
+  page-footer:
+    left: "&copy; 2025 Your Neighborhood Scientist"
+    center:
+      - about.qmd
+      - LICENSE.qmd
+    right:
+      - icon: facebook
+        href: https://www.facebook.com/neighborhoodscientist
+        aria-label: Facebook profile
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app/profile/your.neighborhoodscientist.org
+        rel: me
+        aria-label: BlueSky profile
+      - icon: github
+        href: https://github.com/neighborhood-scientist/
+        aria-label: GitHub organization
+      - icon: rss
+        href: index.xml
+        aria-label: RSS Feed
+
+format:
+  html:
+    theme:
+      - yns.scss
+      - litera
+    embed-resources: false
+
+execute:
+  freeze: auto
+  eval: true
