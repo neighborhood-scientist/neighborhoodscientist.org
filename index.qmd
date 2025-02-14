@@ -22,7 +22,6 @@ science policy, and scientists. We're about to launch -
 in the meantime, subscribe to our newsletter to receive the latest updates from
 us as soon as we launch.
 
-{{< include subscribe.qmd >}}
 
 <!--
 [Subscribe  to our newsletter!](subscribe.qmd){.btn .btn-danger}
