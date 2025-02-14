@@ -183,7 +183,7 @@ ul.task-list li input[type="checkbox"] {
         border-style: solid;
         direction: ltr;
       ">
-      <form id="sib-form" method="POST" action="https://f7adce6c.sibforms.com/serve/MUIFAJtQ6AVRK1KCwh3NfulLKK9af7RRrQfNO6xMh_6BrN8fQj2u7WIVdML0wgknVkROHw9aEYiGQjXUt5CsXETsNsNt5jSFC7TaEKCm2MdQ4i3JISgZU0r4I2dycCyR94W6gtmbFeZr_KVepSMlrAJXBc7FGz2550vZRXKmMXABaclvs1unkbOtr3D8Qf4wr9Ym3Sw5FnlGWd1b" data-type="subscription">
+      <form id="sib-form" method="POST" action="https://f7adce6c.sibforms.com/serve/MUIFANnSg108cd1lK8ySwrGeYSzeya0IBL9AkcBuy5b0rOAi7E0ldlFsJAyfguI68ojXgx9DbMZxwIC3g-1_TZoZn4nJNokN0_2st-GzxuNVfpxmvaeGkG-9ic9bH_6nC1RRFbTCNWCgZoEzlWxJ6KjDOMr09CxwJkXUUd7Aa1gwdGSncNNrZm5H4rRUFMx8sPYVw_6AORl_hnE4" data-type="subscription">
         <div style="padding: 8px 0">
           <div class="sib-form-block" style="
               font-size: 32px;
@@ -256,38 +256,7 @@ ul.task-list li input[type="checkbox"] {
           </div>
         </div>
         <div style="padding: 8px 0">
-          <div class="sib-captcha sib-form-block">
-            <div class="form__entry entry_block">
-              <div class="form__label-row">
-                <script>
-                  function handleCaptchaResponse() {
-                    var event = new Event("captchaChange");
-                    document.getElementById("sib-captcha").dispatchEvent(event);
-                  }
-                </script>
-                <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LdgCc8qAAAAAIhMMMn8IO_k1uemTqi-F2NyHtpQ" data-callback="handleCaptchaResponse" style="direction: ltr"></div>
-              </div>
-              <label class="entry__error entry__error--primary" style="
-                  font-size: 16px;
-                  text-align: left;
-                  font-family: Helvetica, sans-serif;
-                  color: #661d1d;
-                  background-color: #ffeded;
-                  border-radius: 3px;
-                  border-color: #ff4949;
-                ">
-              </label>
-              <label class="entry__specification" style="
-                  font-size: 12px;
-                  text-align: left;
-                  font-family: Helvetica, sans-serif;
-                  color: #8390a4;
-                  text-align: left;
-                ">
-                Form secured by reCAPTCHA
-              </label>
-            </div>
-          </div>
+          <div class="g-recaptcha-v3" data-sitekey="6LdgCc8qAAAAAIhMMMn8IO_k1uemTqi-F2NyHtpQ" style="display: none"></div>
         </div>
         <div style="padding: 8px 0">
           <div class="sib-form-block" style="text-align: left">
@@ -341,7 +310,7 @@ ul.task-list li input[type="checkbox"] {
 
 <script defer="" src="https://sibforms.com/forms/end-form/build/main.js"></script>
 
-<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LdgCc8qAAAAAIhMMMn8IO_k1uemTqi-F2NyHtpQ&amp;hl=en" async="" defer=""></script>
 
 <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
 <!-- End Brevo Form -->
