@@ -23,7 +23,8 @@ $warning: $burnt;
 $danger: $persian;
 $info: $caribbean;
 
-//$body-bg: $champagne;
+$body-color: $slate;
+$body-bg: lighten($champagne, 20%);
 $link-color: $slate;
 $link-decoration: underline;
 
@@ -64,13 +65,23 @@ $callout-color-warning: $persian;
 }
 
 // about page
+// https://github.com/quarto-dev/quarto-cli/blob/febb497f208fdf731c00c20f7653c2766754ba89/src/resources/projects/website/about/about.scss
 
+// remove borders from about links
 div.quarto-about-jolla .about-link {
   font-size: 1em;
   border-style: none;
   transition: all 0.35s ease;
 }
 
+div.quarto-about-jolla .about-image {
+  border-style: solid;
+  //border-radius: 10px;
+  border-color: $champagne;
+  border-width: 1px;
+}
+
+// remove borders from about links
 div.quarto-about-trestles .about-entity .about-link {
   font-size: 1em;
   border-style: none;
