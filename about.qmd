@@ -1,8 +1,9 @@
 ---
 title: "About"
-#image: TODO
+image: img/BeakerHouse_white-crop.png
 about:
   template: jolla
+  image-shape: round
   id: about
   links:
     - icon: envelope

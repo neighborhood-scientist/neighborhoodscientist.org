@@ -23,6 +23,7 @@ in the meantime, subscribe to our newsletter to receive the latest updates from
 us as soon as we launch.
 
 
+
 <!--
 [Subscribe  to our newsletter!](subscribe.qmd){.btn .btn-danger}
 

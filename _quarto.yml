@@ -6,12 +6,15 @@ website:
   site-url: https://neighborhoodscientist.org
   description: "science news for everyone"
   repo-url: https://github.com/neighborhood-scientist/neighborhoodscientist.org
-  #favicon: TODO
+  favicon: img/favicon-transparent/favicon.ico
   open-graph: true
   search:
     location: navbar
     type: overlay
   navbar:
+    logo: /img/BeakerHouse_white-crop.png
+    logo-alt: |
+      Logo of Your Neighborhood Scientist: a house with a beaker as the roof.
     right:
       - text: Home
         href: index.qmd
