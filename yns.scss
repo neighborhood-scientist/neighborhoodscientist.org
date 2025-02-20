@@ -24,7 +24,7 @@ $danger: $persian;
 $info: $caribbean;
 
 //$body-color: $slate;
-$body-bg: lighten($champagne, 20%);
+$body-bg: #fbf8f6; // lighten($champagne, 80%); // https://mdigi.tools/lighten-color/#edddd4
 $link-color: $slate;
 $link-decoration: underline;
 
@@ -47,6 +47,10 @@ $callout-color-note: $caribbean;
 $callout-color-caution: $burnt;
 $callout-color-warning: $persian;
 
+.navbar {
+  border-top: 2px ridge $burnt;
+}
+
 .footer {
   border-top: 3px groove $slate;
 }
@@ -61,13 +65,12 @@ $callout-color-warning: $persian;
 @import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro");
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro");
 
-$font-family-sans-serif: Georgia, "Raleway", "Roboto", Helvetica,
-  "Source Sans Pro", sans-serif;
-$font-family-monospace:
-  "Andale Mono" "Source Code Pro",
-  "Roboto Mono",
+$font-family-sans-serif: "Lato", Helvetica, "Roboto", "Source Sans Pro",
+  sans-serif;
+$font-family-monospace: "Andale Mono", "Source Code Pro", "Roboto Mono",
   monospace;
-$headings-font-family: "Lato", Helvetica, sans-serif;
+$headings-font-family: "Lato", Helvetica, "Roboto", "Source Sans Pro",
+  sans-serif;
 
 /*-- scss:rules --*/
 // https://github.com/quarto-dev/quarto-cli/blob/b822c3f5cc2b7dd57238bed2bcbbd2c2ed7688b8/src/resources/formats/html/bootstrap/themes/lumen.scss#L119-L133
