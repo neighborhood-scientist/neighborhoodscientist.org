@@ -83,8 +83,6 @@ the way through: thank you. Tell someone who trusts you about science today, and
 see you in a couple weeks.
 
 ::: {.callout-note title="About the author" style="" icon=false}
-## About the author
-
 Dr. Audrey Drotos is a Neuroscientist at the University of Pennsylvania
 where she studies how we hear. She is a founder of Your Neighborhood Scientist.
 Outside of science and writing, she enjoys long-distance trail running,
