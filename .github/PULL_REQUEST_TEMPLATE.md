@@ -1,5 +1,11 @@
 <!-- Write a brief description of your changes -->
 
+<!--
+Reference any issues related to this PR.
+If this PR fixes any issues, [use a keyword](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword)
+when referring to the issue.
+-->
+
 ## Checklist
 
 - [ ] Does the rendered site look good?
