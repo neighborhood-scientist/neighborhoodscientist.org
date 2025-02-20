@@ -110,3 +110,8 @@ div.quarto-about-trestles .about-entity .about-link {
   border-style: none;
   transition: all 0.35s ease;
 }
+
+// turn off image download https://stackoverflow.com/questions/21110130/protect-image-download
+img {
+  pointer-events: none;
+}
