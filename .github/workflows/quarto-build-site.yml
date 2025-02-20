@@ -1,4 +1,4 @@
-name: quarto
+name: quarto-build-site
 
 on:
   workflow_dispatch:
@@ -28,6 +28,13 @@ jobs:
 
       - name: Render the site
         uses: quarto-dev/quarto-actions/render@v2
+
+      - name: Upload as artifact
+        uses: actions/upload-artifact@v4
+        if: github.event_name == 'pull_request'
+        with:
+          name: website-html
+          path: _site
 
       - name: Publish to GitHub Pages
         uses: quarto-dev/quarto-actions/publish@v2
