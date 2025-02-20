@@ -25,7 +25,7 @@ $info: $caribbean;
 
 //$body-color: $slate;
 $body-bg: #fbf8f6; // lighten($champagne, 80%); // https://mdigi.tools/lighten-color/#edddd4
-$link-color: $slate;
+//$link-color: $slate;
 $link-decoration: underline;
 
 $navbar-bg: $caribbean;
@@ -47,9 +47,11 @@ $callout-color-note: $caribbean;
 $callout-color-caution: $burnt;
 $callout-color-warning: $persian;
 
+/*
 .navbar {
   border-top: 2px ridge $burnt;
 }
+*/
 
 .footer {
   border-top: 3px groove $slate;
