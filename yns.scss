@@ -23,7 +23,7 @@ $warning: $burnt;
 $danger: $persian;
 $info: $caribbean;
 
-$body-color: $slate;
+//$body-color: $slate;
 $body-bg: lighten($champagne, 20%);
 $link-color: $slate;
 $link-decoration: underline;
@@ -50,9 +50,24 @@ $callout-color-warning: $persian;
 .footer {
   border-top: 3px groove $slate;
 }
-// font
-//$font-family-sans-serif: "Roboto", Helvetica, "Source Sans Pro", sans-serif;
-//$font-family-monospace: "Roboto Mono", "Andale Mono" "Source Code Pro", monospace;
+
+// fonts
+@import url("https://fonts.googleapis.com/css2?family=Inter");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Newsreader");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro");
+
+$font-family-sans-serif: Georgia, "Raleway", "Roboto", Helvetica,
+  "Source Sans Pro", sans-serif;
+$font-family-monospace:
+  "Andale Mono" "Source Code Pro",
+  "Roboto Mono",
+  monospace;
+$headings-font-family: "Lato", Helvetica, sans-serif;
 
 /*-- scss:rules --*/
 // https://github.com/quarto-dev/quarto-cli/blob/b822c3f5cc2b7dd57238bed2bcbbd2c2ed7688b8/src/resources/formats/html/bootstrap/themes/lumen.scss#L119-L133

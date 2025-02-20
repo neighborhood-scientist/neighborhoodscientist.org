@@ -45,7 +45,6 @@ format:
   html:
     theme:
       - yns.scss
-      - litera
     embed-resources: false
 
 execute:
