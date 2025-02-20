@@ -51,3 +51,5 @@ format:
 execute:
   freeze: auto
   eval: true
+
+csl: nature.csl # https://www.zotero.org/styles?q=nature
