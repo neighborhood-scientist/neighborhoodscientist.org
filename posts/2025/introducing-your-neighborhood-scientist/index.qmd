@@ -1,0 +1,93 @@
+---
+title: "Introducing Your Neighborhood Scientist"
+description: "Launching an initiative to cultivate community-based conversations about science, science policy, and scientists"
+author: "Audrey Drotos"
+date: "2025-02-23"
+draft: false
+categories: [intro, policy]
+---
+
+Hello!
+
+My name is Audrey, and I'm a neuroscientist. I study brain cells: how they talk
+to each other, what they're saying, and how they help us figure out what's going
+on in our environments.
+
+I started this newsletter because I'm increasingly concerned about how science
+and medical research is viewed by the public. There's been a shift over the last
+few years in how I hear people talk about science, and it's at odds with what I
+see and experience in my day-to-day life as a researcher. I feel so excited
+about the amount of progress being made in the scientific community, from
+treatments for HIV and pediatric cancers to new vaccines for RSV and cancer, but
+I sense a growing unease with these same discoveries amongst the general public,
+with an increase in discussion of conspiracy theories (like the myth that
+vaccines cause autism), a decrease in the number of people who support public
+health measures backed by science (like fluoride in our drinking water), and
+general growing distrust in the scientific and medical communities.
+
+I'm sure there are many factors at play that have widened this chasm between
+scientists and non-scientists, but I think one is a misunderstanding of how
+science works: how basic science informs medical breakthroughs, how science is
+funded in the US, and the role that pharmaceutical companies and medical
+professionals play. I think most people would be surprised to hear that much of
+what we know about human genetics comes from studying yeast and worms, or that
+the US federal government funds upwards of 90% of the research happening at
+universities across the US, both public and private.
+
+In addition, I think another big driver of this gap between scientists and the
+general public is a misunderstanding of who scientists are. I've worked in
+academia for the last nine years of my life, and the people I work with are some
+of the most compassionate, hard-working, dedicated individuals, who sacrifice
+many years of their lives to bring new advancements into the world that will
+make our lives better. As I read Facebook comments and see the rhetoric on TV, I
+often find myself wishing I could just show people the scientists I know: I wish
+I could bring you to lab and show you the people I work with every day, show you
+how hard they are working, and show you how the work they do makes your life
+better and our communities stronger.
+
+Your Neighborhood Scientist is my initiative to do just that: to tell the world
+how the scientists in your neighborhoods are working hard—just like you—to leave
+a positive mark on this world. I started this newsletter because I believe that
+we can work together to show the world that science is critical to the health
+and well-being of our communities. Changing this rhetoric is no small task, and
+I think it starts with information: how does this all work? How does the work
+scientists do every day, funded by taxpayers, eventually end up handed to you
+over the counter at your local pharmacy in a paper bag that contains life-saving
+medication? How does it strengthen our economy? How does it enhance our national
+defense and emergency preparedness?
+
+I also realize that if you're reading this newsletter, you're likely someone who
+is somewhat interested in science. I probably don't have to convince you too
+much that we should fund basic science research, and that scientists are
+incredible, genuine people who are trying to make the world a better place. But
+why do you think that? Maybe it's because you understand the intricacies of
+science, and you know about NIH institutes and CAR-T cell pathways. Or maybe
+not: most likely, you believe in science because you know and trust me, Audrey,
+your neighborhood scientist. People's beliefs are not informed by facts and
+information: they are informed by feelings and trust.
+
+In our newsletter, we'll work to fill the science information gap by stressing
+the importance of basic science research and providing information about how it
+works, and I hope that you do learn more about the work scientists do. But to
+me, it's not important if you remember specific details, like what an indirect
+rate is at the NIH. What's important is that you feel inspired to tell other
+people that know and trust you about how important you think science is. Perhaps
+over time they might even become convinced that they, too, should advocate for
+scientists and good science policy. The goal is to provide the knowledge that
+scientists are working hard to make the world a better place and use this as a
+vehicle to spread positive feelings and trust surrounding science,  because
+these are the things that change people's minds.
+
+I don't know what will ultimately happen with this journey, but if you read all
+the way through: thank you. Tell someone who trusts you about science today, and
+see you in a couple weeks.
+
+::: {.callout-note title="About the author" style="" icon=false}
+## About the author
+
+Dr. Audrey Drotos is a Neuroscientist at the University of Pennsylvania
+where she studies how we hear. She is a founder of Your Neighborhood Scientist.
+Outside of science and writing, she enjoys long-distance trail running,
+thrifting vintage jackets, buying really good apples at the farmer's market, and
+curling up with a great book, preferably one by Ed Yong.
+:::
