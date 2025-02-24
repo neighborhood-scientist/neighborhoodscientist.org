@@ -56,7 +56,7 @@ private insurance was unlikely to cover medicine not yet demonstrated to be the
 standard of care for LYG. Determining standard of care for a rare disease is
 time consuming and expensive! This is the kind of life-changing work the NIH
 Intramural Program supports. Led by Dr. Christopher Melani,
-[the clinical trial successfully established a set of treatments as standard of care](https://doi.org/10.1016/S2352-3026(23)00029-7),
+the clinical trial successfully established a set of treatments as standard of care,
 publishing a median survival of 12.1 years [@melani_interferon_2023]. This
 result will facilitate better treatment of LYG at hospitals across the country
 and globally.
