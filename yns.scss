@@ -8,6 +8,9 @@ $white: #ffffff;
 $gray-800: #343a40;
 $gray-900: #212529;
 
+// https://github.com/tidyverse/tidytemplate/blob/6345fdbee6f46cb39814f488addf793fb920c813/inst/pkgdown/BS5/extra.scss
+$faint-border: #efefef !default;
+
 // brand colors created by Katie
 $slate: #283d3b;
 $caribbean: #19727b;
@@ -31,10 +34,9 @@ $link-decoration: underline;
 $navbar-bg: $caribbean;
 $navbar-fg: $white;
 $navbar-hl: $champagne;
-$footer-bg: $caribbean;
-$footer-fg: $white;
-$footer-hl: $champagne;
-//$sidebar-hl: $caribbean;
+//$footer-bg: $caribbean;
+$footer-fg: $slate;
+$footer-hl: $caribbean;
 
 $code-block-bg-alpha: -0.8;
 $code-bg-alpha: -0.8;
@@ -57,7 +59,13 @@ $callout-color-warning: $persian;
 */
 
 .footer {
-  border-top: 3px groove $slate;
+  border-top: 1px solid $champagne;
+  background-image: url("https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/4766f20b3a6ce45b374f5e95d82b58fa9a3d875b/img/Neighborhood-01.png");
+  background-position: bottom;
+  background-size: contain;
+  height: 150px;
+  width: 100%;
+  background-repeat: repeat-x;
 }
 
 // fonts
@@ -109,4 +117,9 @@ div.quarto-about-trestles .about-entity .about-link {
   font-size: 1em;
   border-style: none;
   transition: all 0.35s ease;
+}
+
+// turn off image download https://stackoverflow.com/questions/21110130/protect-image-download
+img {
+  pointer-events: none;
 }

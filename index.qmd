@@ -1,32 +1,21 @@
 ---
-title: "coming soon!"
-description: "Your Neighborhood Scientist"
-#title: "Latest posts"
-#description: "from Your Neighborhood Scientist"
-# listing:
-#   id: posts
-#   contents: posts
-#   feed: true
-#   sort: "date desc"
-#   type: default
-#   categories: true
-#   sort-ui: false
-#   filter-ui: false
+title: "Your Neighborhood Scientist"
+description: "cultivating community-based conversations around science, science policy, and scientists"
+listing:
+  id: posts
+  contents: posts
+  feed: true
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
 page-layout: full
 title-block-banner: false
-include-after-body: subscribe-form.html
+#include-after-body: subscribe-form.html
 ---
 
-Welcome! YNS is an initiative to cultivate community-based conversations around science,
-science policy, and scientists. We're about to launch -
-in the meantime, subscribe to our newsletter to receive the latest updates from
-us.
-
-
-
-<!--
 [Subscribe  to our newsletter!](subscribe.qmd){.btn .btn-danger}
 
 :::{#posts}
 :::
--->
