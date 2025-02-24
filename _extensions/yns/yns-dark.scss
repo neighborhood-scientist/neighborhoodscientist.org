@@ -1,0 +1,139 @@
+/*-- scss:defaults --*/
+
+// colors
+
+// primary colors
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #ebebeb !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #888 !default;
+$gray-700: #444 !default;
+$gray-800: #303030 !default;
+$gray-900: #222 !default;
+$black:    #000 !default;
+
+// https://github.com/tidyverse/tidytemplate/blob/6345fdbee6f46cb39814f488addf793fb920c813/inst/pkgdown/BS5/extra.scss
+$faint-border: #efefef !default;
+
+// brand colors created by Katie
+$slate: #283d3b;
+$caribbean: #19727b;
+$champagne: #edddd4;
+$persian: #c44536;
+$burnt: #772e25;
+
+// modified brand colors
+// https://mdigi.tools/lighten-color
+$champagne-80: #fbf8f6;
+
+$caribbean-70: #a5e6ed;
+$caribbean-80: #c3eef3;
+$caribbean-90: #e1f7f9;
+
+// set colors
+$primary: $caribbean;
+$secondary: $slate;
+$success: $caribbean;
+$warning: $burnt;
+$danger: $persian;
+$info: $caribbean;
+
+$body-color:  $champagne-80; // lighten($champagne, 80%); // https://mdigi.tools/lighten-color/#edddd4
+$body-bg: $gray-900;
+$link-color: $caribbean-70;
+$link-decoration: underline;
+
+$navbar-fg: $white;
+$navbar-hl: $champagne;
+$footer-fg: $champagne-80;
+$footer-hl: $white;
+
+$code-block-bg-alpha: -0.8;
+$code-bg-alpha: -0.8;
+$code-alpha: 0.9;
+$code-bg: $champagne;
+$code-color: $caribbean;
+
+$callout-color-tip: $slate;
+$callout-color-note: $caribbean;
+$callout-color-caution: $burnt;
+$callout-color-warning: $persian;
+
+/*
+.navbar-logo {
+    min-height: 50px;
+  }
+.navbar {
+  border-top: 1px solid $caribbean;
+}
+
+*/
+
+.footer {
+  border-top: 1px solid $slate; // https://mdigi.tools/lighten-color/#283d3b
+  background-image: url("https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/4766f20b3a6ce45b374f5e95d82b58fa9a3d875b/img/Neighborhood-01.png");
+  background-position: bottom;
+  background-size: contain;
+  height: 150px;
+  width: 100%;
+  background-repeat: repeat-x;
+}
+
+// fonts
+@import url("https://fonts.googleapis.com/css2?family=Inter");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Newsreader");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro");
+
+$font-family-sans-serif: "Lato", Helvetica, "Roboto", "Source Sans Pro",
+  sans-serif;
+$font-family-monospace: "Andale Mono", "Source Code Pro", "Roboto Mono",
+  monospace;
+$headings-font-family: "Lato", Helvetica, "Roboto", "Source Sans Pro",
+  sans-serif;
+
+/*-- scss:rules --*/
+// https://github.com/quarto-dev/quarto-cli/blob/b822c3f5cc2b7dd57238bed2bcbbd2c2ed7688b8/src/resources/formats/html/bootstrap/themes/lumen.scss#L119-L133
+
+// Mixins
+
+@mixin shadow($width: 4px) {
+  border-style: solid;
+  border-width: 0 1px $width 1px;
+}
+
+// about page
+// https://github.com/quarto-dev/quarto-cli/blob/febb497f208fdf731c00c20f7653c2766754ba89/src/resources/projects/website/about/about.scss
+
+// remove borders from about links
+div.quarto-about-jolla .about-link {
+  font-size: 1em;
+  border-style: none;
+  transition: all 0.35s ease;
+}
+
+div.quarto-about-jolla .about-image {
+  border-style: solid;
+  //border-radius: 10px;
+  border-color: $champagne;
+  border-width: 1px;
+}
+
+// remove borders from about links
+div.quarto-about-trestles .about-entity .about-link {
+  font-size: 1em;
+  border-style: none;
+  transition: all 0.35s ease;
+}
+
+// turn off image download https://stackoverflow.com/questions/21110130/protect-image-download
+img {
+  pointer-events: none;
+}

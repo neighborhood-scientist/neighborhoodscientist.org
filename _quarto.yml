@@ -44,7 +44,8 @@ website:
 format:
   html:
     theme:
-      - yns.scss
+      light: _extensions/yns/yns-light.scss
+      dark: _extensions/yns/yns-dark.scss
     embed-resources: false
 
 execute:

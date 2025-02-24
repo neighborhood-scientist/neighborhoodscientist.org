@@ -1,0 +1,10 @@
+title: Your Neighborhood Scientist theme
+author: Your Neighborhood Scientist
+quarto-required: ">=1.2"
+contributes:
+  formats:
+    html:
+      theme:
+        light: _extensions/yns/yns-light.scss
+        dark: _extensions/yns/yns-dark.scss
+      embed-resources: false
