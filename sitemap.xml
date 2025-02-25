@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://neighborhoodscientist.org/subscribe.html</loc>
-    <lastmod>2025-02-24T04:02:42.095Z</lastmod>
-  </url>
-  <url>
     <loc>https://neighborhoodscientist.org/welcome.html</loc>
-    <lastmod>2025-02-24T04:02:42.095Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neighborhoodscientist.org/LICENSE.html</loc>
-    <lastmod>2025-02-24T04:02:42.067Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neighborhoodscientist.org/about.html</loc>
-    <lastmod>2025-02-24T04:02:42.074Z</lastmod>
+    <lastmod>2025-02-25T19:05:35.663Z</lastmod>
   </url>
   <url>
     <loc>https://neighborhoodscientist.org/posts/2025/introducing-your-neighborhood-scientist/index.html</loc>
-    <lastmod>2025-02-24T04:02:42.094Z</lastmod>
+    <lastmod>2025-02-25T19:05:35.662Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/subscribe.html</loc>
+    <lastmod>2025-02-25T19:05:35.663Z</lastmod>
   </url>
   <url>
     <loc>https://neighborhoodscientist.org/index.html</loc>
-    <lastmod>2025-02-24T04:02:42.091Z</lastmod>
+    <lastmod>2025-02-25T19:05:35.659Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/about.html</loc>
+    <lastmod>2025-02-25T19:05:35.642Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/LICENSE.html</loc>
+    <lastmod>2025-02-25T19:05:35.635Z</lastmod>
   </url>
 </urlset>
