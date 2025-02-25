@@ -8,6 +8,7 @@ website:
   repo-url: https://github.com/neighborhood-scientist/neighborhoodscientist.org
   favicon: img/favicon_io/favicon.ico
   open-graph: true
+  google-analytics: "G-Y933V4VZ3B"
   search:
     location: navbar
     type: overlay
