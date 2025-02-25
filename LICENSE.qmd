@@ -10,6 +10,7 @@ License](https://creativecommons.org/licenses/by/4.0/). This is a human-readable
 summary of (and not a substitute for) [the
 license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
+Our logo and graphics were created by [Katie Furman](https://github.com/katiefurms).
 Images on this website are under copyright of the original creator unless
 otherwise specified.
 
