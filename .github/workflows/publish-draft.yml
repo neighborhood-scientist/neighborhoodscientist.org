@@ -38,13 +38,13 @@ jobs:
         id: open-pr
         run: |
           python .github/bot.py
-          if [[ $(git diff --exit-code . ) ]]; then
+          if [[ $(git diff --exit-code ./posts ) ]]; then
               changes=true
               today=$(date +'%Y-%m-%d')
               branch="post/${today}"
               echo "branch=$branch" >> $GITHUB_OUTPUT
               git switch -c $branch
-              git add .
+              git add ./posts
               git commit -m "🤖 publish post(s) for ${today}" || echo 'nothing to commit'
               git push
               gh pr create --fill
