@@ -17,6 +17,9 @@ $caribbean: #19727b;
 $champagne: #edddd4;
 $persian: #c44536;
 $burnt: #772e25;
+$sky: #d3e2e3;
+
+$champagne-light: #fbf8f6; // lighten($champagne, 80%); // https://mdigi.tools/lighten-color/#edddd4
 
 // set colors
 $primary: $caribbean;
@@ -27,16 +30,17 @@ $danger: $persian;
 $info: $caribbean;
 
 //$body-color: $slate;
-$body-bg: #fbf8f6; // lighten($champagne, 80%); // https://mdigi.tools/lighten-color/#edddd4
-//$link-color: $slate;
+$body-bg: $champagne-light; //$link-color: $slate;
 $link-decoration: underline;
 
 $navbar-bg: $caribbean;
-$navbar-fg: $white;
 $navbar-hl: $champagne;
-//$footer-bg: $caribbean;
+/*
+$navbar-fg: $white;
+$footer-bg: $sky;
 $footer-fg: $slate;
 $footer-hl: $caribbean;
+*/
 
 $code-block-bg-alpha: -0.8;
 $code-bg-alpha: -0.8;
@@ -49,21 +53,21 @@ $callout-color-note: $caribbean;
 $callout-color-caution: $burnt;
 $callout-color-warning: $persian;
 
-/*
 .navbar-logo {
-    min-height: 50px;
-  }
+  min-height: 50px;
+}
+/*
 .navbar {
-  border-top: 2px ridge $burnt;
+    border-bottom: 1px solid $champagne;
 }
 */
 
 .footer {
   border-top: 1px solid $champagne;
-  background-image: url("https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/4766f20b3a6ce45b374f5e95d82b58fa9a3d875b/img/Neighborhood-01.png");
+  background-image: url("https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/6134ad4ab758d9372a23a7c51f221885e39c10a9/img/Neighborhood_01_transparent.png");
   background-position: bottom;
   background-size: contain;
-  height: 150px;
+  height: 170px;
   width: 100%;
   background-repeat: repeat-x;
 }
@@ -107,9 +111,12 @@ div.quarto-about-jolla .about-link {
 
 div.quarto-about-jolla .about-image {
   border-style: solid;
-  //border-radius: 10px;
   border-color: $champagne;
-  border-width: 1px;
+  border-width: 0px;
+}
+
+div.quarto-about-marquee .quarto-title h1.title {
+  text-align: center;
 }
 
 // remove borders from about links
@@ -122,4 +129,10 @@ div.quarto-about-trestles .about-entity .about-link {
 // turn off image download https://stackoverflow.com/questions/21110130/protect-image-download
 img {
   pointer-events: none;
+}
+
+// custom rules
+
+.align-center {
+  text-align: center !important;
 }

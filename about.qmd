@@ -1,9 +1,7 @@
 ---
 title: "About"
-image: img/BeakerHouse_white-crop.png
 about:
-  template: jolla
-  image-shape: round
+  template: marquee
   id: about
   links:
     - icon: envelope
@@ -21,8 +19,18 @@ about:
     - icon: github
       href: https://github.com/neighborhood-scientist
 ---
-:::{#about}
+
+::::{#about}
+:::{.align-center }
+
+<img src='https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/6134ad4ab758d9372a23a7c51f221885e39c10a9/img/GogglesReflection_transparent-03-03.png' alt='goggles with a reflection of a neighborhood' width=500px>
+
+<!--
+[{{< fa regular envelope >}}](mailto:your@neighborhoodscientist.org) &nbsp; [{{< fa brands facebook >}}](https://www.facebook.com/neighborhoodscientist) &nbsp; [{{< fa brands bluesky >}}](https://bsky.app/profile/your.neighborhoodscientist.org) &nbsp; [{{< fa brands mastodon >}}](https://mastodon.social/@your.neighborhoodscientist.org@bsky.brid.gy) &nbsp; [{{< fa brands github >}}](https://github.com/neighborhood-scientist)
+-->
 :::
+::::
+
 
 Your Neighborhood Scientist is an initiative to cultivate community-based
 conversations about science, science policy, and scientists.
