@@ -20,6 +20,8 @@ about:
       rel: me
     - icon: github
       href: https://github.com/neighborhood-scientist
+    - text: "{{< fa solid heart >}}"
+      href: https://opencollective.com/neighborhood-scientist
 ---
 :::{#about}
 :::

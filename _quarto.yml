@@ -38,6 +38,9 @@ website:
       - icon: github
         href: https://github.com/neighborhood-scientist/
         aria-label: GitHub organization
+      - text: "{{< fa solid heart >}}"
+        href: https://opencollective.com/neighborhood-scientist
+        aria-label: Open Collective
       - icon: rss
         href: index.xml
         aria-label: RSS Feed
