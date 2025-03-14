@@ -1,0 +1,21 @@
+---
+title: "TITLE"
+author: "AUTHOR"
+date: "YYYY-MM-DD"
+draft: true
+categories:
+  - category1
+  - category2
+image: photo.jpg
+bibliography: refs.bib
+---
+
+ARTICLE CONTENT GOES HERE
+
+<hr>
+
+::: {.callout-note title="About the author" style="" icon=false}
+AUTHOR BIO GOES HERE
+:::
+
+![](AUTHOR-PHOTO.jpg)
