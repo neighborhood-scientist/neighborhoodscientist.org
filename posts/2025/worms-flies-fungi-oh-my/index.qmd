@@ -1,13 +1,14 @@
 ---
-title: "Worms and Flies and Fungi, Oh My"
-description: How Basic Science Research Has Transformed Our Understanding of Human Health and Disease
-author: "Mikel D. Haggadone, Ph.D."
-date: "2025-03-14"
-draft: true
+title: Worms and Flies and Fungi, Oh My
+description: How Basic Science Research Has Transformed Our Understanding of Human
+  Health and Disease
+author: Mikel D. Haggadone, Ph.D.
+date: '2025-03-14'
+draft: false
 categories:
-  - basic science
-  - model organisms
-  - science history
+- basic science
+- model organisms
+- science history
 image: mdh-lab.jpeg
 bibliography: refs.bib
 ---
