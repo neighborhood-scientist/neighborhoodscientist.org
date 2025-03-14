@@ -136,3 +136,30 @@ img {
 .align-center {
   text-align: center !important;
 }
+
+// flex box
+// source https://www.geeksforgeeks.org/how-to-auto-resize-image-in-css-flexbox-layout-and-keeping-aspect-ratio/
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.flex-container img {
+  max-width: 100%;
+  height: auto;
+  /* Maintain aspect ratio */
+  flex: 1 1 auto;
+  /* Allow images to grow and shrink */
+  object-fit: cover;
+}
+
+/* Optional: Add media queries for responsiveness */
+@media (max-width: 600px) {
+  .container img {
+    flex: 1 1 100%;
+    /* Full width on small screens */
+  }
+}
