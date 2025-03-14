@@ -1,13 +1,14 @@
 ---
-title: "TITLE"
-author: "AUTHOR"
-date: "YYYY-MM-DD"
+title: TITLE
+description: OPTIONAL SUBTITLE
+author: AUTHOR
+date: 'YYYY-MM-DD'
 draft: true
 categories:
-  - category1
-  - category2
+- category1
+- category2
 image: photo.jpg
-bibliography: refs.bib
+bibliography: refs.bib # optional
 ---
 
 ARTICLE CONTENT GOES HERE
