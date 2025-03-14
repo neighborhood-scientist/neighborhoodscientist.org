@@ -1,0 +1,7 @@
+:::{.align-center}
+
+<img src="/img/qrcode-subscribe-slate.png" alt="QR code to https://neighborhoodscientist.org/subscribe">
+
+QR code to <https://neighborhoodscientist.org/subscribe>
+
+:::
