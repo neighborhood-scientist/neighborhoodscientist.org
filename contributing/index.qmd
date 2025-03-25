@@ -2,8 +2,7 @@
 title: Contributing an article
 ---
 
-We are so glad you are considering contributing to Your Neighborhood Scientist.
-
+We are so glad you are considering contributing to Your Neighborhood Scientist!
 The audience of YNS is citizen non-scientists: people who could care about
 science, but don't currently have good information about why science matters in
 their lives and why they should advocate for it. YNS seeks to bridge this gap
