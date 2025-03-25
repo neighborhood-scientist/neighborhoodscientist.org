@@ -1,3 +1,5 @@
+### Specific guidelines
+
 Articles should be less than 1,000 words and must contain language that is
 accessible to the general public. You can use [this online
 tool](https://hemingwayapp.com/readability-checker) to gauge what level your
@@ -13,6 +15,7 @@ Please include a short (1-3 sentence) author bio for the end of your article.
 You can include your current job, education, a little about your hobbies, a link
 to your personal website, or anything you like. Feel free to let your
 personality shine through! Examples:
+
 - [name] is a [title] at [company]. When she's not too busy fixing bugs in her code, she enjoys running, climbing, and trying to keep her 19 plants alive.
 - [name] received their MS in [field] from [university] and is currently looking for their next gig. [name] has a passion for open science, baking, and table top board games.
 - [name] is well known among his friends and colleagues as the go-to data wrangler and phone repair guru. At this point he should probably start his own business for electronics repair, but in the meantime he is enjoying [actual position] for [employer].
@@ -24,6 +27,7 @@ just a candid shot from your everyday life. If this is okay, please include a
 picture (horizontal if possible) that will serve as the header for your article.
 Also, let us know your handle/username for any social media sites you use so we
 can tag you when we publish your article!
+
 - BlueSky
 - Facebook
 - Instagram
