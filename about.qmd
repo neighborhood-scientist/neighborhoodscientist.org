@@ -8,8 +8,8 @@ about:
       href: mailto:your@neighborhoodscientist.org
     - icon: facebook
       href: https://www.facebook.com/neighborhoodscientist
-    # - icon: instagram
-    #   href: TODO
+    - icon: instagram
+      href: https://www.instagram.com/your.neighborhoodscientist
     - text: "{{< fa brands bluesky >}}"
       href: https://bsky.app/profile/your.neighborhoodscientist.org
       rel: me
