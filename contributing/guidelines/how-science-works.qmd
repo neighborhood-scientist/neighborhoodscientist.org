@@ -1,0 +1,31 @@
+---
+title: Guidelines for writing a "How Science Works" article
+---
+
+Hi! We are so glad you are considering writing a "How Science Works" article for
+Your Neighborhood Scientist. These articles are written by scientists and
+community members about the nuts and bolts of science in the US: who funds it?
+Who does the research? How do pharmaceutical, biotech, and other companies fit
+into the puzzle? What exactly is basic science? Why should we care about the
+NIH, NSF, DOE, and other federal agencies involved in science?
+
+The goal of these articles is to communicate unbiased information about science
+programs. We also want to combat misinformation about where taxpayer funding for
+science and health programs goes. Here are a few examples of things we'd like to
+talk about:
+
+The US is the center of innovation for science and medicine in the world -- what
+publicly funded mechanisms support this? What impact does government scientific
+funding have on communities? On the individual person? Where do we feel its
+impact the most, and over what time frame? What benefits does science research
+have on the overall economy? What are the specific mechanisms that underlie how
+this funding eventually benefits the taxpayer? What are some common
+misconceptions about taxpayer-funded scientific research? How can we rebut
+these?
+
+We want people to feel proud to be taxpayers that fund such amazing science and
+health research programs that are changing the world for the better. We want
+them to understand that funding these programs allows them to be part of making
+the world a better place.
+
+{{< include _guidelines.qmd >}}
