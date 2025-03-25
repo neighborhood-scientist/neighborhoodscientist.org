@@ -31,6 +31,8 @@ website:
       - icon: facebook
         href: https://www.facebook.com/neighborhoodscientist
         aria-label: Facebook profile
+      - icon: instagram
+        href: https://www.instagram.com/your.neighborhoodscientist
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/your.neighborhoodscientist.org
         rel: me
