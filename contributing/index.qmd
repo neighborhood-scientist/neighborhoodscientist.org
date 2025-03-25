@@ -1,0 +1,24 @@
+---
+title: Contributing an article
+---
+
+We are so glad you are considering contributing to Your Neighborhood Scientist.
+
+The audience of YNS is citizen non-scientists: people who could care about
+science, but don't currently have good information about why science matters in
+their lives and why they should advocate for it. YNS seeks to bridge this gap
+through a newsletter & blog with three types of articles (click the links below to learn more):
+
+- [Scientist on the block](guidelines/scientist-on-the-block.qmd): Articles written by scientists about why they love science. The goal is to communicate joy about the work that scientists do and humanize the many types of people who do science.
+- [Science in our communities](guidelines/science-in-our-communities.qmd): Articles written by scientists, community members, and policy makers about work they or others are doing and how it positively impacts their communities. The goal is to communicate that taxpayers should feel proud of the science they are funding because their money is making a positive difference in the world around them.
+- [How science works](guidelines/how-science-works.qmd): Articles written by scientists, community members, and policy makers detailing scientific funding, science policy, and how community members can be involved in advocating for science.
+
+We are seeking articles (1,000 words or less) for any of the three categories
+above. Articles do not have to strictly fall within only one category; we see
+these categories as helpful guidelines to jump-start your inspiration.
+Contributions will be published once every 1-2 weeks on a website and emailed
+out through our newsletter, along with published to a Facebook page and other
+social media. If you are interested in writing for us, please email
+<mailto:audrey@neighborhoodscientist.org> and let us know about your proposed
+topic. Thank you for helping us increase science literacy and advocacy in the
+US!
