@@ -55,4 +55,6 @@ our communities are better off for it.
 
 <hr>
 
-Are you interested in contributing an article? Send a pitch to [your@neighborhoodscientist.org](mailto:your@neighborhoodscientist.org)
+Are you interested in contributing an article?
+Take a look at our [contributing guidelines](/contributing/index.qmd)
+and send your pitch to [audrey@neighborhoodscientist.org](mailto:audrey@neighborhoodscientist.org)
