@@ -20,9 +20,7 @@ presenting and its impacts. We want them to be empowered to talk to their
 neighbor about exciting topics like engineered immune systems that tackle
 cancer. To achieve this, we encourage you to present concepts simply and
 concisely, highlighting the key takeaways and avoiding getting lost in the
-technical weeds. We also really like the advice from
-[this article](https://www.forbes.com/sites/marshallshepherd/2016/11/22/9-tips-for-communicating-science-to-people-who-are-not-scientists/)
-about presenting science to non-scientists.
+technical weeds.
 
 We appreciate that especially with science concepts, a picture can tell a
 thousand words. We also love a good cartoon or analogy that helps your audience
