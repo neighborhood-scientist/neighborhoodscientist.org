@@ -28,10 +28,17 @@ to learn more):
 
 </details>
 
+<hr>
+
 Articles do not have to strictly fall within only one category; we see these
-categories as helpful guidelines to jump-start your inspiration. Contributions
-will be published once every 1-2 weeks on the website and emailed out through
-our newsletter, along with posted on social media.
+categories as helpful guidelines to jump-start your inspiration.
+
+### Send us your pitch!
+
+Feeling inspired? Please send a pitch of the topic you plan to write about to
+<audrey@neighborhoodscientist.org>. We'll discuss any feedback and let you know
+whether we are interested in moving forward with your article. Once you have the
+go-ahead, please follow the guidelines below when writing your draft.
 
 ### Specific guidelines
 
@@ -57,26 +64,29 @@ personality shine through! Examples:
 - [name] received their MS in [field] from [university] and is currently looking for their next gig. [name] has a passion for open science, baking, and table top board games.
 - [name] is well known among his friends and colleagues as the go-to data wrangler and phone repair guru. At this point he should probably start his own business for electronics repair, but in the meantime he is enjoying [actual position] for [employer].
 
+If you would like us to include a link to your personal website, academic
+profile, or other link, be sure to let us know.
+
+We would love to include a picture of you with the article to give readers a
+sense of the diversity of humans who do science. We would especially love to see
+a photo of you in action doing science, a hobby you enjoy, or even just a candid
+shot from your everyday life. If this is okay, please include a picture,
+horizontal if possible.
+
 #### Social media
 
-In addition, we would love to include a picture of you with the article to give
-readers a sense of the diversity of humans who do science. We would especially
-love to see a photo of you in action doing science, a hobby you enjoy, or even
-just a candid shot from your everyday life. If this is okay, please include a
-picture (horizontal if possible) that will serve as the header for your article.
-Also, let us know your handle/username for any social media sites you use so we
-can tag you when we publish your article!
+Please let us know your handle/username for any social media sites you use so we
+can tag you when we publish your article.
 
 - BlueSky
 - Facebook
 - Instagram
-- Personal website, academic profile, or other link we should include in your author bio
 - GitHub -- if you have a GitHub account, we'll tag you as the commit author in our website repository
 
-### Send us your pitch!
+### Send us your draft!
 
 When you're ready, please send a draft of your article to
-<audrey@neighborhoodscientist.org>. We'll edit your article and prepare
-it for publication, and then send it back to you for your final approval before
-it is released. Articles will be distributed every 1-2 weeks via our email
-newsletter, website, and social media.
+<audrey@neighborhoodscientist.org>. We'll edit your article and prepare it for
+publication, and then send it back to you for your final approval before it is
+released. Articles are distributed every 1-2 weeks via our email newsletter,
+website, and social media.
