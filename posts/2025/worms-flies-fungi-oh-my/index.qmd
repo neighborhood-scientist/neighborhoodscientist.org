@@ -2,7 +2,7 @@
 title: Worms and Flies and Fungi, Oh My
 description: How Basic Science Research Has Transformed Our Understanding of Human
   Health and Disease
-author: Mikel D. Haggadone, Ph.D.
+author: Mikel D. Haggadone, PhD
 date: '2025-03-14'
 draft: false
 categories:
@@ -202,7 +202,7 @@ someone what you learned about science today.
 <hr>
 
 ::: {.callout-note title="About the author" style="" icon=false}
-Dr. Mikel Haggadone received his Ph.D. in Immunology from the University of
+Dr. Mikel Haggadone received his PhD in Immunology from the University of
 Michigan Medical School in 2021 and is now completing his Postdoctoral
 Fellowship at the University of Pennsylvania Perelman School of Medicine in the
 laboratory of Dr. Sunny Shin. In addition to his love for research, Mike is a
