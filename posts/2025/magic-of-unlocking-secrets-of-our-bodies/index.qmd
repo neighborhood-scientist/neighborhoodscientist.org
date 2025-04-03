@@ -1,6 +1,5 @@
 ---
 title: "Why I love the science I do: the magic of unlocking the secrets of our bodies"
-#description: OPTIONAL SUBTITLE
 author: Francesca Costabile, PhD
 date: '2025-04-04'
 draft: true
@@ -9,7 +8,7 @@ categories:
 - immunology
 - community
 - science joy
-#image:
+image: conductor.png
 ---
 
 There's a special feeling that comes with every discovery in science, but for
@@ -34,11 +33,15 @@ just need to learn how to unlock their potential. Think about it: your body has
 an incredible army of cells, each with a specific job to do. The magic of
 immunology is understanding how these cells work together, and how we can
 harness them to fight diseases more effectively. It's a bit like being the
-conductor of a symphony, where you get to bring all these parts into harmony to
+**conductor of a symphony**, where you get to bring all these parts into harmony to
 create something powerful. And what excites me the most is that this research
 could lead to breakthroughs that affect future generations. Imagine a world
 where you can activate your body's defenses to prevent diseases like cancer
 before they even start. That's the kind of impact I'm striving for.
+
+::: {.align-center}
+![Illustrated by <a href="https://www.holydiode.com/">Holy Diode</a> (<a href="https://www.instagram.com/holy.diode/">@holydiode</a>)](conductor.png){height=500px}
+:::
 
 I am currently a senior researcher at Penn in the Radiation Oncology department,
 which has been a dream come true, but it certainly wasn't an easy path. Becoming
@@ -48,6 +51,10 @@ Sometimes, I still wish I could have more free time for the things I love, like
 traveling, singing, dancing, or painting. But every time I get frustrated, I
 remind myself of the bigger picture: the potential to make a real difference, to
 change the lives of patients, and to contribute to the scientific community.
+
+:::: {style="float: right; margin: 5px;"}
+![Francesca in the laboratory.](fc.jpg){width=200px}
+::::
 
 There's often a misconception that science is a lonely pursuit, but the truth
 is, it's a community effort.  I'm deeply grateful to the people who believed in
@@ -80,11 +87,11 @@ of science as I am.
 <hr>
 
 ::: {.callout-note title="About the author" style="" icon=false}
+
 Francesca is a postdoctoral researcher in the Radiation Oncology department at
-the University of Pennsylvania. With a master's in Biology and a Ph.D. in
+the University of Pennsylvania. With a master's in Biology and a PhD in
 Clinical and Experimental Immunology, when she is not busy trying to find the
 cure for cancer, Francesca enjoys singing, dancing, painting, cooking, and
 spending time in nature.
-:::
 
-<!--![](AUTHOR-PHOTO.jpg)-->
+:::
