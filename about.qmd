@@ -16,6 +16,8 @@ about:
     - icon: mastodon
       href: https://mastodon.social/@your.neighborhoodscientist.org@bsky.brid.gy
       rel: me
+    - icon: linkedin
+      href: https://www.linkedin.com/company/your-neighborhood-scientist
     - icon: github
       href: https://github.com/neighborhood-scientist
 ---

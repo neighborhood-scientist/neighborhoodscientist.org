@@ -37,6 +37,8 @@ website:
         href: https://bsky.app/profile/your.neighborhoodscientist.org
         rel: me
         aria-label: BlueSky profile
+      - icon: linkedin
+        href: https://www.linkedin.com/company/your-neighborhood-scientist
       - icon: github
         href: https://github.com/neighborhood-scientist/
         aria-label: GitHub organization
