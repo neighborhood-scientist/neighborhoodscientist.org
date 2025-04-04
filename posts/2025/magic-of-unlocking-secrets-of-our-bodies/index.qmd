@@ -1,8 +1,8 @@
 ---
-title: "Why I love the science I do: the magic of unlocking the secrets of our bodies"
+title: 'Why I love the science I do: the magic of unlocking the secrets of our bodies'
 author: Francesca Costabile, PhD
 date: '2025-04-04'
-draft: true
+draft: false
 categories:
 - curiosity
 - immunology
