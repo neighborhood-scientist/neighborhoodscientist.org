@@ -17,5 +17,7 @@ title-block-banner: false
 
 [Subscribe  to our newsletter!](subscribe.qmd){.btn .btn-danger}
 
+<hr>
+
 :::{#posts}
 :::
