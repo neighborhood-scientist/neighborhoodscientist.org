@@ -1,0 +1,9 @@
+---
+title: 'test'
+---
+
+::: {.align-center}
+:::: {.flex-container}
+![Illustrated by <a href="https://www.holydiode.com/">Holy Diode</a> (<a href="https://www.instagram.com/holy.diode/">@holydiode</a>)](conductor.png){height=500px}
+::::
+:::
