@@ -145,6 +145,7 @@ img {
   justify-content: center;
   align-items: center;
   gap: 10px;
+  position: relative;
 }
 
 .flex-container img {
@@ -154,11 +155,12 @@ img {
   flex: 1 1 auto;
   /* Allow images to grow and shrink */
   object-fit: cover;
+  //position: absolute;
 }
 
 /* Optional: Add media queries for responsiveness */
-@media (max-width: 600px) {
-  .container img {
+@media (max-height: 480px) {
+  .flex-container img {
     flex: 1 1 100%;
     /* Full width on small screens */
   }

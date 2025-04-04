@@ -39,7 +39,7 @@ could lead to breakthroughs that affect future generations. Imagine a world
 where you can activate your body's defenses to prevent diseases like cancer
 before they even start. That's the kind of impact I'm striving for.
 
-::: {.align-center}
+::: {.flex-container .align-center}
 ![Illustrated by <a href="https://www.holydiode.com/">Holy Diode</a> (<a href="https://www.instagram.com/holy.diode/">@holydiode</a>)](conductor.png){height=500px}
 :::
 
