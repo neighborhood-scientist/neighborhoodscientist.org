@@ -45,13 +45,28 @@ go-ahead, please follow the guidelines below when writing your draft.
 Articles should be less than 1,000 words and must contain language that is
 accessible to the general public. You can use [this online
 tool](https://hemingwayapp.com/readability-checker) to gauge the level of your
-writing and any adjust sentences that might be inaccessible to a non-scientific
+writing and adjust any sentences that might be inaccessible to a non-scientific
 audience.
 
 We realize many of these are complex topics that we could write books about. We
 ask that you distill your message down to a specific topic, as this will be most
 accessible to the general public. If you feel that your topic necessitates a
 longer article, we would be happy to consider releasing a multi-part series.
+
+#### References
+
+Feel free to include hyperlinks to blogs, online articles, or other websites in your draft.
+
+For any publications that should be cited in-text,
+please include the DOI near where it should be cited.
+Example:
+
+> Led by Dr. Christopher Melani,
+> the clinical trial successfully established a set of treatments as standard of care,
+> publishing a median survival of 12.1 years [doi: 10.1016/S2352-3026(23)00029-7].
+
+We will handle formatting of the in-text citation and bibliography.
+You can see an example of how the references appear [here](https://neighborhoodscientist.org/posts/2025/nih-intramural-first-job-saving-mom/#ref-melani_interferon_2023).
 
 #### Author biography
 
