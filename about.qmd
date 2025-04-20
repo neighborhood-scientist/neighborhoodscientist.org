@@ -33,19 +33,9 @@ about:
 :::
 ::::
 
+Your Neighborhood Scientist is a nonprofit organization working to make science accessible, understandable, and human-centered. We provide evidence-based content that empowers people to engage with science confidently and critically. By improving public understanding of science and building trust in scientists, we help combat misinformation and promote lifelong science literacy.
 
-Your Neighborhood Scientist is an initiative to cultivate community-based
-conversations about science, science policy, and scientists.
-
-Currently, there is an information gap between public perception of science and
-the reality of the good that science does in our communities. To help fill this
-gap, we publish a newsletter written by scientists and community leaders about
-exciting, taxpayer-funded research that's happening in the US and the positive
-impact that science and science policy has on the world around us. We also talk
-about the diversity of people who do science, and the many ways that science
-helps our communities, often behind the scenes. Our articles are written and
-edited by the scientists doing the work, so you know that you're getting
-information about what's really happening — not just clickbait.
+Our work centers on transparency, equity, and curiosity. Through it, we aim to break down barriers between scientists and the public—because we believe science belongs to everyone. At YNS, we envision a society where scientists are seen not as distant experts, but as engaged members of the community—trusted, respected, and valued for their contributions to public life.
 
 Our hope is that our readers will help us shift the current national narrative
 by talking to their neighbors, coworkers, family, and friends about why science
