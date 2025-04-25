@@ -1,8 +1,8 @@
 ---
-title: "Vax to the future: building a healthier tomorrow with vaccines"
+title: 'Vax to the future: building a healthier tomorrow with vaccines'
 author: Alyssa Maturen-Backlas, MSc
 date: '2025-04-25'
-draft: true
+draft: false
 categories:
 - vaccines
 - public health
