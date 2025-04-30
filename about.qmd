@@ -55,6 +55,8 @@ our communities are better off for it.
 
 <hr>
 
+[Subscribe to our newsletter](/subscribe.qmd) to receive our latest articles right in your inbox!
+
 Are you interested in contributing an article?
 Take a look at our [contributing guidelines](/contributing/index.qmd)
 and send your pitch to [audrey@neighborhoodscientist.org](mailto:audrey@neighborhoodscientist.org).
