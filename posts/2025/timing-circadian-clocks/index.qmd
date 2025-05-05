@@ -1,5 +1,5 @@
 ---
-title: Timing is everything: how circadian clocks shape our health and why funding basic science research can't wait!
+title: "Timing is everything: how circadian clocks shape our health and why funding basic science research can't wait!"
 #description: OPTIONAL SUBTITLE
 author: Ronan Lordan, PhD, MA
 date: '2025-05-09'
@@ -7,8 +7,8 @@ draft: true
 categories:
 - circadian clocks
 - basic science
-image: photo.jpg
-bibliography: refs.bib # optional
+image: Ronan_in_lab.JPG
+bibliography: refs.bib
 ---
 
 Have you ever wondered why you wake when you do, sleep when you do, or eat when
@@ -54,6 +54,13 @@ century, that researchers like Jürgen Aschoff and Franz Halberg systematically
 studied and coined terms like "circadian". Halberg is actually the one who
 coined the word "circadian" (from Latin circa diem, meaning "about a day") in
 the 1950s.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/eviOCC13Pt0?si=v6fjopskbWQy16dG"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 In humans, this internal schedule manifests in countless ways. For example, core
 body temperature rises in the morning, peaking in the late afternoon before
@@ -161,7 +168,9 @@ potential for medical breakthroughs has never been greater. It has never been
 timelier to recognize the urgency and promise of chronobiology, which drives
 innovation in medicine, public health, and beyond.
 
-![Ronan in the laboratory preparing for his next experiment.]()
+::: {.flex-container .align-center}
+![Ronan in the laboratory preparing for his next experiment.](Ronan_in_lab.JPG){width=70%}
+:::
 
 <hr>
 
@@ -184,4 +193,6 @@ playing guitar, going to concerts, sipping coffee with a book, and traveling
 with his fiancée Samantha.
 :::
 
-![Ronan & Sam in Paris.](AUTHOR-PHOTO.jpg)
+::: {.flex-container .align-center}
+![Ronan & Sam in Paris.](Paris.jpeg){width=70%}
+:::
