@@ -60,3 +60,47 @@ our communities are better off for it.
 Are you interested in contributing an article?
 Take a look at our [contributing guidelines](/contributing/index.qmd)
 and send your pitch to [audrey@neighborhoodscientist.org](mailto:audrey@neighborhoodscientist.org).
+
+
+### Who we are
+
+TODO blurb about our 501(c)(3) status
+
+### Meet the team
+
+
+::: {layout-ncol=3}
+
+:::: {.flex-container .align-center}
+![Audrey Drotos, PhD <br> Founder | Executive Director](img/BeakerHouse_white-crop.png)
+::::
+
+:::: {.flex-container .align-center}
+![
+<a href="https://sovacool.dev">
+Kelly Sovacool, PhD
+</a> <br>
+Co-founder | Tech Director
+](img/GogglesReflection_SquareCrop-05.png)
+::::
+
+:::: {.flex-container .align-center}
+![Katie Furman <br> Graphic Design Director](img/BeakerHouse_transparent.png)
+::::
+
+
+:::: {.flex-container .align-center}
+![Monica Kinsey <br> Marketing Lead](img/qrcode-caribbean.png)
+::::
+
+
+:::: {.flex-container .align-center}
+![Kate Giffin <br> Editor](img/qrcode-slate.png)
+::::
+
+
+:::: {.flex-container .align-center}
+![Adam Hughes <br> Non-profit advisor](img/qrcode-caribbean.png)
+::::
+
+:::

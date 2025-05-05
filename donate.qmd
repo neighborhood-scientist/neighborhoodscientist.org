@@ -1,0 +1,4 @@
+---
+---
+
+TODO connect with Open Collective / Stripe
