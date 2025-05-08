@@ -1,11 +1,12 @@
 ---
-title: "Timing is everything: how circadian clocks shape our health and why funding basic science research can't wait!"
-#description: OPTIONAL SUBTITLE
+title: "Timing is everything: how circadian clocks shape our health"
+description: "...and why funding basic science research can't wait!"
 author: Ronan Lordan, PhD, MA
 date: '2025-05-09'
-draft: true
+draft: false
 categories:
-- circadian clocks
+- circadian rhythms
+- biological clocks
 - basic science
 image: ronan_illustration_nobg-01.png
 bibliography: refs.bib
