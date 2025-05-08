@@ -7,7 +7,7 @@ draft: true
 categories:
 - circadian clocks
 - basic science
-image: Ronan_in_lab.JPG
+image: ronan_illustration_nobg-01.png
 bibliography: refs.bib
 ---
 
@@ -55,12 +55,19 @@ studied and coined terms like "circadian". Halberg is actually the one who
 coined the word "circadian" (from Latin circa diem, meaning "about a day") in
 the 1950s.
 
+<figure>
 <iframe width="560" height="315"
 src="https://www.youtube.com/embed/eviOCC13Pt0?si=v6fjopskbWQy16dG"
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+<figcaption>
+Circadian control of leaf movement by the Utah State University Crop Physiology Lab
+</figcaption>
+</figure>
 
+<hr>
 
 In humans, this internal schedule manifests in countless ways. For example, core
 body temperature rises in the morning, peaking in the late afternoon before
@@ -117,6 +124,10 @@ to exercise and work, we may unlock new ways to promote health, performance, and
 even happiness. And by supporting the science that reveals these rhythms, we
 invest in a future where timing becomes not just an afterthought, but a central
 pillar of medicine and public health.
+
+::: {.flex-container .align-center}
+![Illustration by Kunga Nyima Drotos](ronan_illustration_nobg-01.png){width=70%}
+:::
 
 However, despite its relevance to virtually every aspect of health, circadian
 biology remains chronically underfunded. Much of what we know about these
