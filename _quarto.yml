@@ -19,7 +19,7 @@ website:
     right:
       - text: Home
         href: index.qmd
-      - about.qmd
+      - about/index.qmd
       - text: Subscribe
         href: subscribe.qmd
   page-footer:
