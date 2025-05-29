@@ -60,3 +60,35 @@ our communities are better off for it.
 Are you interested in contributing an article?
 Take a look at our [contributing guidelines](/contributing/index.qmd)
 and send your pitch to [audrey@neighborhoodscientist.org](mailto:audrey@neighborhoodscientist.org).
+
+
+### Who we are
+
+We are a nonprofit organization incorporated in the state of Michigan, led and
+run by a team of volunteers with expertise in science and science communication.
+
+#### Board of Directors
+
+::: {layout-ncol=3}
+
+:::: {.flex-container .align-center}
+![Audrey Drotos, PhD <br> Founder | Executive Director](img/profiles/audrey_headshot_square.jpg)
+::::
+
+:::: {.flex-container .align-center}
+![Kelly Sovacool, PhD <br> Co-founder | Tech Lead](img/profiles/kelly_profile.jpg)
+::::
+
+:::: {.flex-container .align-center}
+![Katie Furman <br> Graphic Design Lead](img/profiles/katie_furman.jpg)
+::::
+
+<!--
+#### The Team
+:::: {.flex-container .align-center}
+![Kate Giffin <br> Editor](img/qrcode-slate.png)
+::::
+
+-->
+
+:::
