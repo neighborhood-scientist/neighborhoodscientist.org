@@ -64,43 +64,31 @@ and send your pitch to [audrey@neighborhoodscientist.org](mailto:audrey@neighbor
 
 ### Who we are
 
-TODO blurb about our 501(c)(3) status
+We are a nonprofit organization incorporated in the state of Michigan, led and
+run by a team of volunteers with expertise in science and science communication.
 
-### Meet the team
-
+#### Board of Directors
 
 ::: {layout-ncol=3}
 
 :::: {.flex-container .align-center}
-![Audrey Drotos, PhD <br> Founder | Executive Director](img/BeakerHouse_white-crop.png)
+![Audrey Drotos, PhD <br> Founder | Executive Director](img/profiles/audrey_headshot_square.jpg)
 ::::
 
 :::: {.flex-container .align-center}
-![
-<a href="https://sovacool.dev">
-Kelly Sovacool, PhD
-</a> <br>
-Co-founder | Tech Director
-](img/GogglesReflection_SquareCrop-05.png)
+![Kelly Sovacool, PhD <br> Co-founder | Tech Lead](img/profiles/kelly_profile.jpg)
 ::::
 
 :::: {.flex-container .align-center}
-![Katie Furman <br> Graphic Design Director](img/BeakerHouse_transparent.png)
+![Katie Furman <br> Graphic Design Lead](img/profiles/katie_furman.jpg)
 ::::
 
-
-:::: {.flex-container .align-center}
-![Monica Kinsey <br> Marketing Lead](img/qrcode-caribbean.png)
-::::
-
-
+<!--
+#### The Team
 :::: {.flex-container .align-center}
 ![Kate Giffin <br> Editor](img/qrcode-slate.png)
 ::::
 
-
-:::: {.flex-container .align-center}
-![Adam Hughes <br> Non-profit advisor](img/qrcode-caribbean.png)
-::::
+-->
 
 :::
