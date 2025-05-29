@@ -1,0 +1,94 @@
+---
+title: "About"
+about:
+  template: marquee
+  id: about
+  links:
+    - icon: envelope
+      href: mailto:your@neighborhoodscientist.org
+    - icon: facebook
+      href: https://www.facebook.com/neighborhoodscientist
+    - icon: instagram
+      href: https://www.instagram.com/your.neighborhoodscientist
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/your.neighborhoodscientist.org
+      rel: me
+    - icon: mastodon
+      href: https://mastodon.social/@your.neighborhoodscientist.org@bsky.brid.gy
+      rel: me
+    - icon: linkedin
+      href: https://www.linkedin.com/company/your-neighborhood-scientist
+    - icon: github
+      href: https://github.com/neighborhood-scientist
+---
+
+::::{#about}
+:::{.flex-container}
+
+<img src='https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/6134ad4ab758d9372a23a7c51f221885e39c10a9/img/GogglesReflection_transparent-03-03.png' alt='goggles with a reflection of a neighborhood'>
+
+<!--
+[{{< fa regular envelope >}}](mailto:your@neighborhoodscientist.org) &nbsp; [{{< fa brands facebook >}}](https://www.facebook.com/neighborhoodscientist) &nbsp; [{{< fa brands bluesky >}}](https://bsky.app/profile/your.neighborhoodscientist.org) &nbsp; [{{< fa brands mastodon >}}](https://mastodon.social/@your.neighborhoodscientist.org@bsky.brid.gy) &nbsp; [{{< fa brands github >}}](https://github.com/neighborhood-scientist)
+-->
+:::
+::::
+
+Your Neighborhood Scientist is a nonprofit organization working to make science
+accessible, understandable, and human-centered. We provide evidence-based
+content that empowers people to engage with science confidently and critically.
+By improving public understanding of science and building trust in scientists,
+we help combat misinformation and promote lifelong science literacy.
+
+Our work centers on transparency, equity, and curiosity. Through it, we aim to
+break down barriers between scientists and the public—because we believe science
+belongs to everyone. At YNS, we envision a society where scientists are seen not
+as distant experts, but as engaged members of the community—trusted, respected,
+and valued for their contributions to public life.
+
+Our hope is that our readers will help us shift the current national narrative
+by talking to their neighbors, coworkers, family, and friends about why science
+is important in their communities and why we need science policy that supports
+scientists doing the work they do best.
+
+With your help, we can show the world that science benefits everyone and that
+our communities are better off for it.
+
+<hr>
+
+[Subscribe to our newsletter](/subscribe.qmd) to receive our latest articles right in your inbox!
+
+Are you interested in contributing an article?
+Take a look at our [contributing guidelines](/contributing/index.qmd)
+and send your pitch to [audrey@neighborhoodscientist.org](mailto:audrey@neighborhoodscientist.org).
+
+
+### Who we are
+
+We are a nonprofit organization incorporated in the state of Michigan, led and
+run by a team of volunteers with expertise in science and science communication.
+
+#### Board of Directors
+
+::: {layout-ncol=3}
+
+:::: {.flex-container .align-center}
+![Audrey Drotos, PhD <br> Founder | Executive Director](img/profiles/audrey_headshot_square.jpg)
+::::
+
+:::: {.flex-container .align-center}
+![Kelly Sovacool, PhD <br> Co-founder | Tech Lead](img/profiles/kelly_profile.jpg)
+::::
+
+:::: {.flex-container .align-center}
+![Katie Furman <br> Graphic Design Lead](img/profiles/katie_furman.jpg)
+::::
+
+<!--
+#### The Team
+:::: {.flex-container .align-center}
+![Kate Giffin <br> Editor](img/qrcode-slate.png)
+::::
+
+-->
+
+:::

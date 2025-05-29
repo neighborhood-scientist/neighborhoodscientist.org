@@ -137,6 +137,11 @@ img {
   text-align: center !important;
 }
 
+.text-caption {
+  color: $slate;
+  font-size: smaller;
+}
+
 // flex box
 // source https://www.geeksforgeeks.org/how-to-auto-resize-image-in-css-flexbox-layout-and-keeping-aspect-ratio/
 .flex-container {
