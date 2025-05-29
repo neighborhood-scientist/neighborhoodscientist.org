@@ -37,12 +37,19 @@ categories as helpful guidelines to jump-start your inspiration.
 
 Feeling inspired? Please send a pitch of the topic you plan to write about to
 <audrey@neighborhoodscientist.org>. We'll discuss any feedback and let you know
-whether we are interested in moving forward with your article. Once you have the
-go-ahead, please follow the guidelines below when writing your draft.
+whether we are interested in moving forward with your article.
+
+Please note that by submitting an article pitch to us,
+you agree to abide by our
+[code of conduct](docs/code-of-conduct.qmd)
+and our [author-publisher agreement](author-publisher-agreement.qmd)
+
+Once you have the go-ahead from a YNS editor, please follow the guidelines below
+when writing your draft.
 
 ### Specific guidelines
 
-Articles should be less than 1,000 words and must contain language that is
+Articles should be less than 2,000 words and must contain language that is
 accessible to the general public. You can use [this online
 tool](https://hemingwayapp.com/readability-checker) to gauge the level of your
 writing and adjust any sentences that might be inaccessible to a non-scientific
@@ -52,6 +59,10 @@ We realize many of these are complex topics that we could write books about. We
 ask that you distill your message down to a specific topic, as this will be most
 accessible to the general public. If you feel that your topic necessitates a
 longer article, we would be happy to consider releasing a multi-part series.
+
+### AI/ML Policy
+
+Please view our [AI/ML policy](docs/ai-policy.qmd) and ensure you abide by it while writing your article.
 
 #### References
 
