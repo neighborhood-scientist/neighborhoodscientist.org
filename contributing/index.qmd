@@ -41,8 +41,8 @@ whether we are interested in moving forward with your article.
 
 Please note that by submitting an article pitch to us,
 you agree to abide by our
-[code of conduct](docs/code-of-conduct.qmd)
-and our [author-publisher agreement](author-publisher-agreement.qmd)
+[code of conduct](/docs/code-of-conduct.qmd)
+and our [author-publisher agreement](/docs/author-publisher-agreement.qmd)
 
 Once you have the go-ahead from a YNS editor, please follow the guidelines below
 when writing your draft.
@@ -62,7 +62,7 @@ longer article, we would be happy to consider releasing a multi-part series.
 
 ### AI/ML Policy
 
-Please view our [AI/ML policy](docs/ai-policy.qmd) and ensure you abide by it while writing your article.
+Please view our [AI/ML policy](/docs/ai-policy.qmd) and ensure you abide by it while writing your article.
 
 #### References
 

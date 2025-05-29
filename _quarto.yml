@@ -25,7 +25,8 @@ website:
   page-footer:
     left: "&copy; 2025 Your Neighborhood Scientist"
     center:
-      - about.qmd
+      - about/index.qmd
+      - about/mission.qmd
       - LICENSE.qmd
     right:
       - icon: facebook
