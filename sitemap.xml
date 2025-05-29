@@ -1,55 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://neighborhoodscientist.org/welcome.html</loc>
-    <lastmod>2025-05-09T06:45:31.600Z</lastmod>
+    <loc>https://neighborhoodscientist.org/docs/code-of-conduct.html</loc>
+    <lastmod>2025-05-29T16:04:52.617Z</lastmod>
   </url>
   <url>
-    <loc>https://neighborhoodscientist.org/index.html</loc>
-    <lastmod>2025-05-09T06:45:31.511Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neighborhoodscientist.org/subscribe.html</loc>
-    <lastmod>2025-05-09T06:45:31.600Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neighborhoodscientist.org/LICENSE.html</loc>
-    <lastmod>2025-05-09T06:45:31.447Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neighborhoodscientist.org/posts/2025/nih-intramural-first-job-saving-mom/index.html</loc>
-    <lastmod>2025-05-09T06:45:31.550Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neighborhoodscientist.org/posts/2025/introducing-your-neighborhood-scientist/index.html</loc>
-    <lastmod>2025-05-09T06:45:31.521Z</lastmod>
+    <loc>https://neighborhoodscientist.org/docs/author-publisher-agreement.html</loc>
+    <lastmod>2025-05-29T16:04:52.617Z</lastmod>
   </url>
   <url>
     <loc>https://neighborhoodscientist.org/posts/2025/building-healthier-tomorrow-vaccines/index.html</loc>
-    <lastmod>2025-05-09T06:45:31.516Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neighborhoodscientist.org/posts/2025/magic-of-unlocking-secrets-of-our-bodies/index.html</loc>
-    <lastmod>2025-05-09T06:45:31.527Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neighborhoodscientist.org/posts/2025/timing-circadian-clocks/index.html</loc>
-    <lastmod>2025-05-09T06:45:31.587Z</lastmod>
+    <lastmod>2025-05-29T16:04:52.680Z</lastmod>
   </url>
   <url>
     <loc>https://neighborhoodscientist.org/posts/2025/worms-flies-fungi-oh-my/index.html</loc>
-    <lastmod>2025-05-09T06:45:31.598Z</lastmod>
+    <lastmod>2025-05-29T16:04:52.764Z</lastmod>
   </url>
   <url>
-    <loc>https://neighborhoodscientist.org/contributing/index.html</loc>
-    <lastmod>2025-05-09T06:45:31.453Z</lastmod>
+    <loc>https://neighborhoodscientist.org/posts/2025/magic-of-unlocking-secrets-of-our-bodies/index.html</loc>
+    <lastmod>2025-05-29T16:04:52.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/about/mission.html</loc>
+    <lastmod>2025-05-29T16:04:52.616Z</lastmod>
   </url>
   <url>
     <loc>https://neighborhoodscientist.org/qrcode.html</loc>
-    <lastmod>2025-05-09T06:45:31.599Z</lastmod>
+    <lastmod>2025-05-29T16:04:52.766Z</lastmod>
   </url>
   <url>
-    <loc>https://neighborhoodscientist.org/about.html</loc>
-    <lastmod>2025-05-09T06:45:31.452Z</lastmod>
+    <loc>https://neighborhoodscientist.org/index.html</loc>
+    <lastmod>2025-05-29T16:04:52.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/LICENSE.html</loc>
+    <lastmod>2025-05-29T16:04:52.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/welcome.html</loc>
+    <lastmod>2025-05-29T16:04:52.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/subscribe.html</loc>
+    <lastmod>2025-05-29T16:04:52.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/contributing/index.html</loc>
+    <lastmod>2025-05-29T16:04:52.617Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/about/index.html</loc>
+    <lastmod>2025-05-29T16:04:52.616Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/posts/2025/timing-circadian-clocks/index.html</loc>
+    <lastmod>2025-05-29T16:04:52.751Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/posts/2025/introducing-your-neighborhood-scientist/index.html</loc>
+    <lastmod>2025-05-29T16:04:52.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/posts/2025/nih-intramural-first-job-saving-mom/index.html</loc>
+    <lastmod>2025-05-29T16:04:52.714Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neighborhoodscientist.org/docs/ai-policy.html</loc>
+    <lastmod>2025-05-29T16:04:52.617Z</lastmod>
   </url>
 </urlset>
