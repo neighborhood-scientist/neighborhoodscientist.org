@@ -20,7 +20,6 @@ website:
       - text: Home
         href: index.qmd
       - about.qmd
-      - donate.qmd
       - text: Subscribe
         href: subscribe.qmd
   page-footer:
