@@ -2,7 +2,7 @@
 title: "Code of Conduct"
 ---
 
-As contributors of Your Neighborhood Scientist (YNS), we pledge to respect all people
+At Your Neighborhood Scientist (YNS), we pledge to respect all people
 who contribute through writing, editing, and other activities that support the YNS mission.
 
 We are committed to making participation in this project a harassment-free
@@ -16,7 +16,7 @@ or private harassment, insults, or other unprofessional conduct.
 
 YNS leadership has the right and responsibility to reject article submissions
 and other contributions that are not aligned to this Code of Conduct.
-Contributors who do not follow the Code of Conduct may be removed from the team.
+Participants who do not follow the Code of Conduct may be removed from the volunteer team.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting one or more of the YNS board members or sending an email
