@@ -69,25 +69,51 @@ run by a team of volunteers with expertise in science and science communication.
 #### Board of Directors
 
 ::: {layout-ncol=3}
-
 :::: {.flex-container .align-center}
-![Audrey Drotos, PhD <br> Founder | Executive Director](/img/profiles/audrey_headshot_square.jpg)
+![
+    Audrey Drotos, PhD
+    <br>
+    Founder | Executive Director
+](/img/profiles/audrey_headshot_square.jpg)
 ::::
 
 :::: {.flex-container .align-center}
-![Kelly Sovacool, PhD <br> Co-founder | Tech Lead](/img/profiles/kelly_profile.jpg)
+![
+    <a href="https://sovacool.dev">
+    Kelly Sovacool, PhD
+    </a>
+    <br>
+    Co-founder | Tech Lead
+](/img/profiles/kelly_profile.jpg)
 ::::
 
 :::: {.flex-container .align-center}
-![Katie Furman <br> Graphic Design Lead](/img/profiles/katie_furman.jpg)
+![
+    Katie Furman
+    <br>
+    Graphic Design Lead
+](/img/profiles/katie_furman.jpg)
 ::::
+:::
 
-<!--
 #### The Team
+
+::: {layout-ncol=3}
 :::: {.flex-container .align-center}
-![Kate Giffin <br> Editor](img/qrcode-slate.png)
+![
+    Kate Giffin
+    <br>
+    Editor
+](/img/profiles/Giffin_headshot.jpg)
 ::::
 
--->
-
+:::: {.flex-container .align-center}
+![
+    <a href="www.linkedin.com/in/trinity-pirrone">
+    Trinity Pirrone
+    </a>
+    <br>
+    Editor
+](/img/profiles/trinity_profile.jpg)
+::::
 :::
