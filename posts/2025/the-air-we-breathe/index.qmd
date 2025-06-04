@@ -96,4 +96,8 @@ Environmental Health Sciences. When she isn't cleaning data, you can find her
 tending her garden or experimenting with new recipes.
 :::
 
-![](AUTHOR-PHOTO.jpg)
+::: {.flex-container .align-center}
+![Lizbeth collecting community health data in San Juan, Puerto Rico (2019) as
+part of research examining respiratory health impacts in the aftermath of
+hurricanes Irma and Maria.](LGomez-PR.jpg){width=90%}
+:::
