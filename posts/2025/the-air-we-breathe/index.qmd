@@ -7,7 +7,8 @@ draft: true
 categories:
 - air quality
 - asthma
-image: photo.jpg
+- environment
+image: illustration.png
 bibliography: refs.bib
 ---
 
