@@ -48,6 +48,10 @@ me most in my data analysis is how this sensitivity varies even among people
 with asthma, depending on factors like their specific triggers, the medications
 they're taking, and even most surprising, the neighborhoods they live in.
 
+::: {.flex-container .align-center}
+![Illustrated by <a href="https://www.holydiode.com/">Holy Diode</a> (<a href="https://www.instagram.com/holy.diode/">\@holydiode</a>)](illustration.png){width=80%}
+:::
+
 Asthma is not simply a story of invisible particles and scientific measurements.
 It's also about lived experiences. About kids who hesitate on playgrounds,
 friends who limit their outings on smoky wildfire days, hazy summer evenings,
