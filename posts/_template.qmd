@@ -19,4 +19,6 @@ ARTICLE CONTENT GOES HERE
 AUTHOR BIO GOES HERE
 :::
 
-![](AUTHOR-PHOTO.jpg)
+::: {.flex-container .align-center}
+![](AUTHOR-PHOTO.jpg){width=70%}
+:::
