@@ -3,7 +3,7 @@ title: When the air we breathe is unfriendly
 description: and how science can help us understand asthma
 author: Lizbeth F. Gómez, PhD, MPH
 date: '2025-06-09'
-draft: true
+draft: false
 categories:
 - air quality
 - asthma
