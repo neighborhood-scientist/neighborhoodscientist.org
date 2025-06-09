@@ -10,7 +10,72 @@
 <atom:link href="https://neighborhoodscientist.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>cultivating community-based conversations around science, science policy, and scientists</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Fri, 09 May 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Jun 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>When the air we breathe is unfriendly</title>
+  <dc:creator>Lizbeth F. Gómez, PhD, MPH</dc:creator>
+  <link>https://neighborhoodscientist.org/posts/2025/the-air-we-breathe/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>There’s a moment most days when I step outside my front door and pause, just for a second, to notice how the air feels. Some days with the arrival of spring it’s crisp and welcoming, carrying the scent of freshly turned soil or blooming lilacs. Other days, it’s heavy. Laced with exhaust from engines idling down the block or the faint hum of an air conditioner kicking into gear. For the one in every twelve neighbors who live with asthma<span class="citation" data-cites="american_lung_association_asthma_2024"><sup>1</sup></span>, that heaviness can make the simple act of breathing feel like a chore. Asthma is what happens when our airways become overly sensitive and reactive to our environment, including things like pollen, dust, cold air or pollution. When someone has asthma, these environmental triggers tend to produce airway tightening and swelling, which can make breathing difficult and create a feeling of breathlessness that can be genuinely frightening.</p>
+<p>Over the past decade, I’ve moved between classrooms, clinics, and conferences learning and trying to understand how the tiny particles we inhale each day shape our lung health and how they do so differently across communities. Today, as a postdoctoral researcher at the University of Pennsylvania, I study the invisible yet unavoidable connection between our environment and respiratory health. My research has focused on fine particles from traffic, factories, and even backyard grills, known to scientists as fine particulate matter or PM. For people living with asthma, these tiny particles can have a huge impact on their day to day life. For instance, on days when these microscopic pollutants are high, people living with asthma tend to reach for their inhalers far more often, and neighborhoods with higher pollution levels see a significant increase in asthma-related emergency visits<span class="citation" data-cites="us_epa_health_2016"><sup>2</sup></span>. The connection is clear: the quality of the air directly shapes our health.</p>
+<p>However, asthma does not affect people equally. Through my research, I’ve learned that it comes down to how already-sensitive airways react to irritation. When someone with asthma inhales air pollutants, these particles act like tiny irritants that trigger an exaggerated immune response. Their airways, already primed to overreact, become even more inflamed and constricted. What fascinates me most in my data analysis is how this sensitivity varies even among people with asthma, depending on factors like their specific triggers, the medications they’re taking, and even most surprising, the neighborhoods they live in.</p>
+<div class="flex-container align-center">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://neighborhoodscientist.org/posts/2025/the-air-we-breathe/illustration.png" class="img-fluid figure-img" style="width:80.0%"></p>
+<figcaption>Illustrated by <a href="https://www.holydiode.com/">Holy Diode</a> (<a href="https://www.instagram.com/holy.diode/">@holydiode</a>)</figcaption>
+</figure>
+</div>
+</div>
+<p>Asthma is not simply a story of invisible particles and scientific measurements. It’s also about lived experiences. About kids who hesitate on playgrounds, friends who limit their outings on smoky wildfire days, hazy summer evenings, and neighbors who rearrange their days based on air quality alerts. Asthma brings to light something deeply human: our vulnerability to the environment we live in. What strikes me most as a scientist is how changeable this situation really is. While genetics do matter, our environment and the air we collectively breathe often tip the scale between health and illness. In recent years, innovative treatments tailored to individuals’ allergic profiles and specific environmental triggers have become increasingly available, significantly reducing hospital visits. At a community level, we’ve learned that neighborhoods with more green spaces, parks, trees, and community gardens have lower asthma rates. These are practical and attainable local solutions that, if well funded and advocated for, can benefit everyone.</p>
+<p>Even at home, we can improve our indoor air quality through seemingly modest steps like maintaining good ventilation, choosing household plants known to absorb pollutants, or routinely checking for allergens such as mold or dust mites. These steps may seem small, yet together they can significantly ease the daily struggles of people living with asthma. Asthma is a reminder that air doesn’t respect fences or boundaries. What circulates through one home inevitably touches another. In this interconnectedness lies a powerful opportunity to combine scientific understanding with community-driven actions. In the community-engaged work that I have done, I consistently champion the idea that we can collectively make our neighborhoods healthier by making our voices heard to policymakers who, at the end of the day, can enact meaningful changes when it comes to regulating pollution.</p>
+<p>As a researcher, my goal is to help develop treatments that specifically consider air pollution and other environmental factors. In the future, I hope to see doctors and scientists routinely working together, using air-quality data to personalize asthma management so that treatments aren’t just responding to symptoms, but actively preventing them. The hope is that one day, our neighborhoods will be places where air pollution no longer dictates the quality of our health, and where breathing safely isn’t an aspiration, but the everyday reality we all enjoy.</p>
+<hr>
+<div class="callout callout-style-default callout-note no-icon callout-titled" title="About the author" style="">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+About the author
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><a href="https://www.linkedin.com/in/lizbeth-gomez/">Lizbeth F. Gómez</a> is an asthma researcher and environmental epidemiologist postdoctoral fellow in the Division of Pulmonary, Allergy and Critical Care Medicine at University of Pennsylvania. She has a master’s in Public Health in Molecular Epidemiology and a PhD in Environmental Health Sciences. When she isn’t cleaning data, you can find her tending her garden or experimenting with new recipes.</p>
+</div>
+</div>
+<div class="flex-container align-center">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://neighborhoodscientist.org/posts/2025/the-air-we-breathe/LGomez-PR.jpg" class="img-fluid figure-img" style="width:90.0%"></p>
+<figcaption>Lizbeth collecting community health data in San Juan, Puerto Rico (2019) as part of research examining respiratory health impacts in the aftermath of hurricanes Irma and Maria.</figcaption>
+</figure>
+</div>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body" data-entry-spacing="0" data-line-spacing="2">
+<div id="ref-american_lung_association_asthma_2024" class="csl-entry">
+<div class="csl-left-margin">1. </div><div class="csl-right-inline">American Lung Association. <a href="https://www.lung.org/research/trends-in-lung-disease/asthma-trends-brief/trends-and-burden">Asthma <span>Trends Brief</span>: <span>Asthma Trends</span> and <span>Burden</span></a>. (2024).</div>
+</div>
+<div id="ref-us_epa_health_2016" class="csl-entry">
+<div class="csl-left-margin">2. </div><div class="csl-right-inline">US Environmental Protection Agency. <a href="https://www.epa.gov/pm-pollution/health-and-environmental-effects-particulate-matter-pm">Health and <span>Environmental Effects</span> of <span>Particulate Matter</span> (<span>PM</span>)</a>. (2016).</div>
+</div>
+</div></section></div> ]]></description>
+  <category>air quality</category>
+  <category>asthma</category>
+  <category>environment</category>
+  <guid>https://neighborhoodscientist.org/posts/2025/the-air-we-breathe/</guid>
+  <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://neighborhoodscientist.org/posts/2025/the-air-we-breathe/illustration.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Timing is everything: how circadian clocks shape our health</title>
   <dc:creator>Ronan Lordan, PhD, MA</dc:creator>
