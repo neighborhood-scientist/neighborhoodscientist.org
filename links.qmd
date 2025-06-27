@@ -16,7 +16,7 @@ navbar: false
 
 [Subscribe to our newsletter](/subscribe.qmd){.btn .btn-outline-primary role="button"}
 
-[Take our July 4th Survey 🇺🇸](https://forms.gle/j8gWMSggKVvJ4VM67){.btn .btn-outline-danger role="button" target="_blank" title="Link to our survey for July 4th"}
+[🇺🇸 Take our July 4th Survey 🇺🇸](https://forms.gle/j8gWMSggKVvJ4VM67){.btn .btn-outline-danger role="button" target="_blank" title="Link to our survey for July 4th"}
 
 [{{< fa brands facebook >}} Facebook](https://www.facebook.com/neighborhoodscientist){.btn .btn-outline-primary role="button"}
 
