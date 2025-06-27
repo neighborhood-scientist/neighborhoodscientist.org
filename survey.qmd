@@ -1,0 +1,12 @@
+---
+navbar: false
+---
+
+This 4th of July, we're looking for scientists to share why they're proud to do science in the US.
+
+Or maybe you're not a scientist
+- but you're proud of the work that US scientists do or you've benefited from US science research.
+
+Click the link in our bio to take the survey and let us know your thoughts!
+
+[🇺🇸 Take our July 4th Survey 🇺🇸](https://forms.gle/j8gWMSggKVvJ4VM67){.btn .btn-outline-danger role="button" target="_blank" title="Link to our survey for July 4th"}
