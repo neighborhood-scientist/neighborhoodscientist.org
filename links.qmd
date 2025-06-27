@@ -28,8 +28,6 @@ navbar: false
 
 [{{< fa brands mastodon >}} Mastodon](https://mastodon.social/@your.neighborhoodscientist.org@bsky.brid.gy){.btn .btn-outline-primary role="button"}
 
-[{{< fa brands github >}} GitHub](https://github.com/neighborhood-scientist){.btn .btn-outline-primary role="button"}
-
 [{{< fa regular envelope >}} Email](mailto:your@neighborhoodscientist.org){.btn .btn-outline-primary role="button"}
 
 :::
