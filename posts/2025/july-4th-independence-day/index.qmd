@@ -54,7 +54,7 @@ basic science discoveries that can one day inform medical breakthroughs (like
 the scientists who contribute to mRNA vaccines, and treatments for chronic
 illnesses and genetic conditions)."
 
-::::{.align-right}
+::::{.align-center}
 -- Anonymous Graduate Student
 ::::
 :::
@@ -64,37 +64,37 @@ illnesses and genetic conditions)."
 rewards (substances, comfort food, bingeing tv) — my work informs clinicians,
 counselors, and therapists to help people struggling with addiction."
 
-::::{.align-right}
+::::{.align-center}
 -- Katie Emery
 ::::
 :::
 
 ::: {.callout-note style="" title="I want to protect people" icon=false }
-I work on developing vaccines and looking into immunity in general against
+"I work on developing vaccines and looking into immunity in general against
 influenza virus. I'm proud to perform taxpayer-funded research in the US because
 I know my work could eventually lead to life-saving vaccines. I want to protect
 people from infectious diseases and vaccines are one of the best ways to do
 that."
 
-::::{.align-right}
+::::{.align-center}
 -- Dr. Gabrielle Scher
 ::::
 :::
 
 ::: {.callout-caution style="" title="Performing research is my most cherished expression of creativity" icon=false}
-Performing research is my most cherished expression of creativity! It brings
+"Performing research is my most cherished expression of creativity! It brings
 me so much joy to develop new ideas, tools, and technologies that fundamentally
 advance our basic knowledge of mammalian biology and have profound potential to
 improve human health. I'm proud to do this work in a country that has
 consistently been a global leader in biomedical research!"
 
-::::{.align-right}
+::::{.align-center}
 -- Mikel Haggadone, PhD
 ::::
 :::
 
 :::{.callout-tip style="" title="For the good of the public" icon=false}
-I am proud to do research because my colleagues and I are learning more about
+"I am proud to do research because my colleagues and I are learning more about
 the world we all live in and how it works. I believe that this understanding can
 help us tackle problems in the world like disease but also I think the knowledge
 alone is exciting. I am proud that the research I do is taxpayer-funded because
@@ -102,13 +102,13 @@ it means it is not beholden to a corporation but for the good of the public,
 even beyond our borders. In a time of "America First" this is a way our country
 is still giving to the world."
 
-::::{.align-right}
+::::{.align-center}
 -- Emma Thornton-Kolbe
 ::::
 :::
 
 :::{.callout-warning style="" title="I am proud to be a source of hope" icon=false}
-Every day, I am reminded of the fact that we do not understand enough about
+"Every day, I am reminded of the fact that we do not understand enough about
 the diseases and conditions we encounter on a regular basis. For example,
 Alzheimer's disease - almost everyone knows someone or is related to someone
 with Alzheimer's disease. We have made remarkable progress in diagnosing this
@@ -121,25 +121,25 @@ a solution... even if we do not have one today, there is hope for tomorrow. I am
 proud to be a source of hope for these people, their families, and their
 friends."
 
-::::{.align-right}
+::::{.align-center}
 -- Sami Barmada
 ::::
 :::
 
 :::{.callout-note style="" title="The technology is desperately needed" icon=false}
-I do research on technology for people with disabilities. Market-driven
+"I do research on technology for people with disabilities. Market-driven
 forces would say that there are not enough people with severe disabilities to
 support this research. But the technology is desperately needed. And so many of
 our modern conveniences have grown from research into special-purpose technology
 that no one realized would be wildly popular once it became available."
 
-::::{.align-right}
+::::{.align-center}
 -- Jane E. Huggins, PhD
 ::::
 :::
 
 :::{.callout-caution style="" title="For the development of new medications and therapies" icon=false}
-I study the activity of immune cells in antiphospholipid syndrome, an
+"I study the activity of immune cells in antiphospholipid syndrome, an
 autoimmune disease that can cause dangerous blood clots to form.
 Antiphospholipid syndrome is poorly understood, and many patients experience
 strokes, cardiovascular issues, and other life-threatening complications of
@@ -147,7 +147,7 @@ disease. I'm proud to contribute to our knowledge of antiphospholipid syndrome
 and other immune-mediated diseases, to allow for the development of new
 medications and therapies to better treat patients around the world."
 
-::::{.align-right}
+::::{.align-center}
 -- Thalia Newman, PhD Student
 ::::
 :::
