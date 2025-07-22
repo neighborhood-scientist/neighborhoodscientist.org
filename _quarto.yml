@@ -6,7 +6,7 @@ website:
   site-url: https://neighborhoodscientist.org
   description: "science news for everyone"
   repo-url: https://github.com/neighborhood-scientist/neighborhoodscientist.org
-  favicon: img/favicon_io/favicon.ico
+  favicon: /img/favicon_io/favicon.ico
   open-graph: true
   google-analytics: "G-F5F1FC1CK5"
   search:
@@ -19,22 +19,27 @@ website:
     right:
       - text: Home
         href: index.qmd
-      - about.qmd
+      - about/index.qmd
       - text: Subscribe
         href: subscribe.qmd
   page-footer:
     left: "&copy; 2025 Your Neighborhood Scientist"
     center:
-      - about.qmd
+      - about/index.qmd
+      - about/mission.qmd
       - LICENSE.qmd
     right:
       - icon: facebook
         href: https://www.facebook.com/neighborhoodscientist
         aria-label: Facebook profile
+      - icon: instagram
+        href: https://www.instagram.com/your.neighborhoodscientist
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app/profile/your.neighborhoodscientist.org
         rel: me
         aria-label: BlueSky profile
+      - icon: linkedin
+        href: https://www.linkedin.com/company/your-neighborhood-scientist
       - icon: github
         href: https://github.com/neighborhood-scientist/
         aria-label: GitHub organization

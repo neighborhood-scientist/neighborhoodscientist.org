@@ -1,0 +1,33 @@
+---
+title: ""
+navbar: false
+---
+
+:::{.align-center}
+
+::::{.flex-container}
+<a href="/index.qmd">
+<img src='https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/6134ad4ab758d9372a23a7c51f221885e39c10a9/img/GogglesReflection_transparent-03-03.png'
+    alt='goggles with a reflection of a neighborhood'
+    width='50%'
+>
+</a>
+::::
+
+[Subscribe to our newsletter](/subscribe.qmd){.btn .btn-outline-primary role="button"}
+
+[🇺🇸 Take our July 4th Survey 🇺🇸](https://forms.gle/j8gWMSggKVvJ4VM67){.btn .btn-outline-danger role="button" target="_blank" title="Link to our survey for July 4th"}
+
+[{{< fa brands facebook >}} Facebook](https://www.facebook.com/neighborhoodscientist){.btn .btn-outline-primary role="button"}
+
+[{{< fa brands instagram >}} Instagram](https://www.instagram.com/your.neighborhoodscientist){.btn .btn-outline-primary role="button"}
+
+[{{< fa brands linkedin >}} LinkedIn](https://www.linkedin.com/company/your-neighborhood-scientist){.btn .btn-outline-primary role="button"}
+
+[{{< fa brands bluesky >}} Bluesky](https://bsky.app/profile/your.neighborhoodscientist.org){.btn .btn-outline-primary role="button"}
+
+[{{< fa brands mastodon >}} Mastodon](https://mastodon.social/@your.neighborhoodscientist.org@bsky.brid.gy){.btn .btn-outline-primary role="button"}
+
+[{{< fa regular envelope >}} Email](mailto:your@neighborhoodscientist.org){.btn .btn-outline-primary role="button"}
+
+:::

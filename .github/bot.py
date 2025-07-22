@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 import glob
-import pprint
-import sys
+import pathlib
 import datetime
 from ruamel.yaml import YAML
 
@@ -65,10 +64,13 @@ class QuartoPost:
 
 def main(glob_path):
     for fp in glob.glob(glob_path, recursive=True):
-        qp = QuartoPost.from_filename(fp)
-        if qp.publish():
-            print("PUBLISHING: ", qp.header["title"])
-            qp.write(fp)
+        # skip template files, e.g. _template.qmd
+        if not pathlib.Path(fp).stem.startswith("_"):
+            qp = QuartoPost.from_filename(fp)
+            # set draft as false if post is due today or earlier
+            if qp.publish():
+                print("PUBLISHING: ", qp.header["title"])
+                qp.write(fp)
 
 
 def examples():

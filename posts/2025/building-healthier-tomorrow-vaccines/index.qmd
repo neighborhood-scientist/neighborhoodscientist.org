@@ -1,0 +1,134 @@
+---
+title: 'Vax to the future: building a healthier tomorrow with vaccines'
+author: Alyssa Maturen-Backlas, MSc
+date: '2025-04-25'
+draft: false
+categories:
+- vaccines
+- public health
+- history
+image: vaccine-summit_cropped.jpeg
+---
+
+Quiz time: What has been rigorously tested since 1796, extensively
+peer-reviewed, and saved over
+[154 million lives](https://www.who.int/news/item/24-04-2024-global-immunization-efforts-have-saved-at-least-154-million-lives-over-the-past-50-years)
+in the past 50 years alone? And the answer is—vaccines! Vaccines have become a
+hot topic recently, but what exactly are they, and why are they so important? As
+a public health professional, these are some of the most common questions I
+get—and I love answering them! It gives me the chance to share evidence-based
+information so that people can make informed healthcare decisions for themselves
+and their loved ones.
+
+Imagine it's the 1870s. The Industrial Revolution is in full swing, bringing
+exciting new technologies. Factories are rising, cities are growing, and people
+are living closer together than ever before. But with inadequate sanitation,
+poor working conditions, and no modern medicine, diseases spread rapidly. One of
+the worst illnesses at the time? Smallpox.
+[Smallpox was a highly contagious viral infection](https://www.cdc.gov/smallpox/about/index.html),
+often spreading through airborne particles from coughs and sneezes. If you were
+unfortunate enough to catch it, you spend agonizing days with high fevers,
+painful rashes, pustules, and sometimes even death. Smallpox killed about 3 of
+every 10 people infected, and those who survived often experienced permanent
+disability, blindness, and scarring on the face. In its final 100 years,
+smallpox claimed an estimated 500 million lives. It was devastating—until
+science changed everything. Enter Edward Jenner, the doctor who developed the
+first [smallpox vaccine](https://www.cdc.gov/smallpox/about/history.html).
+His breakthrough was so effective that, by 1980, the World Health Organization
+declared smallpox [eradicated](https://www.cdc.gov/mmwr/preview/mmwrhtml/su48a7.htm#:~:text=Eradication%3A%20Permanent%20reduction%20to%20zero,nature%20or%20in%20the%20laboratory.).
+That means there are no more natural cases of smallpox anywhere in the world—a
+direct result of global vaccination efforts. But here's the key: vaccines only
+work if people take them. In the 19th and 20th centuries, millions of people saw
+the need for vaccination and stepped up to protect themselves and their
+communities. Their willingness to get vaccinated changed history. It was this
+same community effort mindset that has helped
+[eradicate, or get close to eradicating](https://ourworldindata.org/eradication-of-diseases)
+polio, diphtheria, pertussis, and several diseases that affect animals. When we
+all work together for the greater good we can make real and lasting change.
+
+We might not be living in the 1800s, but infectious diseases haven't
+disappeared. Yes, we have better sanitation and advanced medicine, but we also
+live in an era of overwhelming information—and misinformation. Some falsehoods
+are spread unintentionally (misinformation), while others are deliberately
+designed to deceive (disinformation). We also live in a time where internet
+personalities' opinions on vaccination often weigh as heavily in public opinion
+as facts provided by the scientific experts. That's where
+[public health](https://www.google.com/search?client=safari&rls=en&q=what+is+public+health&ie=UTF-8&oe=UTF-8)
+comes in. Public health is about protecting and improving the health of people
+and communities. Some professionals focus on nutrition, others on disease
+tracking, and others—like me—on prevention. And the best tool we have for
+preventing disease? Vaccines.
+
+The [immune system](https://kidshealth.org/en/parents/immune.html#:~:text=How%20Does%20the%20Immune%20System,proteins%20lock%20onto%20specific%20antigens.)
+ in your body is composed of various organs and is your body's
+defense against infections. It is the major feature our bodies have to keep us
+safe. When a virus or bacteria enters your body, your immune system identifies
+it, attacks it, and remembers it for the future. Vaccines take advantage of this
+by introducing a harmless version of a virus or bacteria,
+[allowing your body to build immunity](https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html)
+without you having to suffer through the actual disease. If you ever do
+encounter the real germ, your immune system will recognize it and respond much
+more efficiently, often preventing serious illness. But vaccines don't just
+protect you. They help protect the community, especially those who are
+immunocompromised—people with weakened immune systems who can't safely receive
+vaccines or fight infections effectively. This includes infants, the elderly,
+cancer patients, and people with autoimmune diseases, among others. When the
+majority of a community is vaccinated, diseases struggle to spread, creating a
+protective barrier known as herd immunity. This is how we protect our most
+vulnerable neighbors.
+
+::: {.flex-container .align-center}
+![Alyssa attending a vaccine summit in Atlanta with other vaccine nonprofits and coalitions from across the country](vaccine-summit_cropped.jpeg){ width=80% }
+:::
+
+<hr>
+
+The Immunization Alliance of Michigan is still in its early stages. As the
+leader of that vaccine coalition and nonprofit, I spend my days working on
+ensuring we can operate as an organization and provide meaningful education and
+services to traditionally under-served populations across Michigan. I do this by
+engaging with community members to see what their needs are, answering
+questions, and addressing concerns about vaccines. Many fears stem from
+misinformation, so I work with healthcare providers to give them resources and
+trainings on how to feel confident when talking about vaccines to their
+patients, create media content in various formats and languages to give to
+communities around the state, and I eventually hope to start working with the
+state legislature to get better vaccine education and access laws passed to
+improve health for everyone across the state. At its core, public health is
+about helping people live longer, healthier lives. But for that to happen, they
+need access to accurate, unbiased, and evidence-based information. Vaccine
+hesitancy that stems from misinformation inherently means that people aren't
+truly making informed choices—because they don't have all the facts! Right now,
+working in vaccine advocacy is tough. Political divisiveness and funding cuts
+make it feel like an uphill battle. It's frustrating to see vital resources at
+risk when all we want is for people to be safe and healthy.
+
+But despite the challenges, we keep showing up. We keep advocating. Because this
+work matters. If even one person reads the scientific research and
+recommendations we share and decides to get vaccinated to protect themselves or
+their community, that's a win. Public health workers, including myself, will
+continue fighting for you, your family, and your community. We all want
+ourselves and our loved ones to be healthy. Getting vaccinated is one of the
+most effective ways to achieve that. It is so important that we continue to work
+together to prevent the spread of disease so that we can ensure a healthier
+future for everyone!
+
+<hr>
+
+::: {.callout-note title="About the author" style="" icon=false}
+
+Alyssa Maturen-Backlas is the Executive Director of the non-profit Immunization
+Alliance of Michigan, which she runs on behalf of MDHHS and MPHI. When she's
+not advocating for vaccines, Alyssa enjoys any and all outdoor recreation,
+pilates, and snuggling her corgi, Moose. It is her goal to visit every National
+Park and hike Mt. Everest.
+
+:::
+
+::: {layout-ncol=2 .flex-container .align-center}
+
+![Alyssa at the IceHotel in Sweden](ice-hotel_resampled.jpeg){ width=75% }
+
+![Alyssa hiking around Crater Lake National Park](crater-lake_cropped.jpeg){ width=100% }
+
+:::

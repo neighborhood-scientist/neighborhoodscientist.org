@@ -1,0 +1,116 @@
+---
+title: Contributing an article
+---
+
+We are so glad you are considering contributing to Your Neighborhood Scientist!
+The audience of YNS is citizen non-scientists: people who could care about
+science, but don't currently have good information about why science matters in
+their lives and why they should advocate for it. YNS seeks to bridge this gap
+through a newsletter & blog with three types of articles (click the links below
+to learn more):
+
+<details>
+<summary>**Scientist on the block**</summary>
+
+{{< include _scientist-on-the-block.qmd >}}
+
+</details>
+<details>
+<summary>**Science in our communities**</summary>
+
+{{< include _science-in-our-communities.qmd >}}
+
+</details>
+<details>
+<summary>**How science works**</summary>
+
+{{< include _how-science-works.qmd >}}
+
+</details>
+
+<hr>
+
+Articles do not have to strictly fall within only one category; we see these
+categories as helpful guidelines to jump-start your inspiration.
+
+### Send us your pitch!
+
+Feeling inspired? Please send a pitch of the topic you plan to write about to
+<audrey@neighborhoodscientist.org>. We'll discuss any feedback and let you know
+whether we are interested in moving forward with your article.
+
+Please note that by submitting an article pitch to us,
+you agree to abide by our
+[code of conduct](/docs/code-of-conduct.qmd)
+and our [author-publisher agreement](/docs/author-publisher-agreement.qmd)
+
+Once you have the go-ahead from a YNS editor, please follow the guidelines below
+when writing your draft.
+
+### Specific guidelines
+
+Articles should be less than 2,000 words and must contain language that is
+accessible to the general public. You can use [this online
+tool](https://hemingwayapp.com/readability-checker) to gauge the level of your
+writing and adjust any sentences that might be inaccessible to a non-scientific
+audience.
+
+We realize many of these are complex topics that we could write books about. We
+ask that you distill your message down to a specific topic, as this will be most
+accessible to the general public. If you feel that your topic necessitates a
+longer article, we would be happy to consider releasing a multi-part series.
+
+### AI/ML Policy
+
+Please view our [AI/ML policy](/docs/ai-policy.qmd) and ensure you abide by it while writing your article.
+
+#### References
+
+Feel free to include hyperlinks to blogs, online articles, or other websites in your draft.
+
+For any publications that should be cited in-text,
+please include the DOI near where it should be cited.
+Example:
+
+> Led by Dr. Christopher Melani,
+> the clinical trial successfully established a set of treatments as standard of care,
+> publishing a median survival of 12.1 years [doi: 10.1016/S2352-3026(23)00029-7].
+
+We will handle formatting of the in-text citation and bibliography.
+You can see an example of how the references appear [here](https://neighborhoodscientist.org/posts/2025/nih-intramural-first-job-saving-mom/#ref-melani_interferon_2023).
+
+#### Author biography
+
+Please include a short (1-3 sentence) author bio for the end of your article.
+You can include your current job, education, a little about your hobbies, a link
+to your personal website, or anything you like. Feel free to let your
+personality shine through! Examples:
+
+- [name] is a [title] at [company]. When she's not too busy fixing bugs in her code, she enjoys running, climbing, and trying to keep her 19 plants alive.
+- [name] received their MS in [field] from [university] and is currently looking for their next gig. [name] has a passion for open science, baking, and table top board games.
+- [name] is well known among his friends and colleagues as the go-to data wrangler and phone repair guru. At this point he should probably start his own business for electronics repair, but in the meantime he is enjoying [actual position] for [employer].
+
+If you would like us to include a link to your personal website, academic
+profile, or other link, be sure to let us know.
+
+We would love to include a picture of you with the article to give readers a
+sense of the diversity of humans who do science. We would especially love to see
+a photo of you in action doing science, a hobby you enjoy, or even just a candid
+shot from your everyday life. If this is okay, please include a picture,
+horizontal if possible.
+
+#### Social media
+
+Please let us know your handle/username for any social media sites you use so we
+can tag you when we publish your article.
+
+- BlueSky
+- Facebook
+- Instagram
+- GitHub -- if you have a GitHub account, we'll tag you as the commit author in our website repository
+
+### Send us your draft!
+
+When you're ready, please send a draft of your article to
+<audrey@neighborhoodscientist.org>. Please note that YNS is an exclusive publisher—we ask that you only submit original, unpublished work and refrain from submitting it elsewhere until you’ve heard back from us. After submission, you can expect to hear a decision within 3-5 business days. If your article is accepted, we will edit it with you prior to publication and you will provide final approval before it is released. Articles are distributed every 1-2 weeks via our email newsletter,
+website, and social media.

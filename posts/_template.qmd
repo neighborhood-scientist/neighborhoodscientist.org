@@ -1,0 +1,24 @@
+---
+title: TITLE
+description: OPTIONAL SUBTITLE
+author: AUTHOR
+date: 'YYYY-MM-DD'
+draft: true
+categories:
+- category1
+- category2
+image: photo.jpg
+bibliography: refs.bib # optional
+---
+
+ARTICLE CONTENT GOES HERE
+
+<hr>
+
+::: {.callout-note title="About the author" style="" icon=false}
+AUTHOR BIO GOES HERE
+:::
+
+::: {.flex-container .align-center}
+![](AUTHOR-PHOTO.jpg){width=70%}
+:::
