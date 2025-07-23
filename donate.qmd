@@ -1,0 +1,8 @@
+---
+title: Donate to Your Neighborhood Scientist
+format:
+  html:
+    page-layout: full
+---
+
+<iframe src="https://opencollective.com/embed/neighborhood-scientist/donate?interval=oneTime&amount=20&useTheme=true&backgroundColor=#edddd4&hideFAQ=true" style="width: 100%; min-height: 100vh;"></iframe>
