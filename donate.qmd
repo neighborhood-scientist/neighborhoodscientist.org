@@ -1,5 +1,5 @@
 ---
-title: Donate to Your Neighborhood Scientist
+title: Donate to support our work!
 format:
   html:
     page-layout: full

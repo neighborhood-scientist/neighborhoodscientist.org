@@ -55,9 +55,8 @@ format:
     theme:
       - yns.scss
     embed-resources: false
-
+engine: knitr
 execute:
   freeze: auto
   eval: true
-
 csl: nature.csl # https://www.zotero.org/styles?q=nature

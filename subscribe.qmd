@@ -1,3 +1,22 @@
 ---
-include-in-header: subscribe-form.html
+title: Subscribe to our free newsletter!
+#include-in-header: subscribe-form.html
+engine: knitr
+page-layout: full
 ---
+
+```{=html}
+{{< include subscribe-form.html >}}
+```
+
+::::{.columns}
+:::{.column width=26.3%}
+:::
+:::{.yns-callout .column}
+Support YNS
+
+We are accepting donations if you'd like to support our work!
+
+[**DONATE** {{< fa solid heart >}}](/donate.qmd){.btn .btn-primary role="button"}
+:::
+::::

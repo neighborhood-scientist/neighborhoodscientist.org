@@ -15,8 +15,8 @@ title-block-banner: false
 #include-after-body: subscribe-form.html
 ---
 
-[Subscribe  to our newsletter!](/subscribe.qmd){.btn .btn-danger role="button"} &nbsp;
-[Donate!](/donate.qmd){.btn .btn-danger role="button"}
+[Subscribe  to our newsletter](/subscribe.qmd){.btn .btn-danger role="button"} &nbsp;
+[Donate {{< fa solid heart >}}](/donate.qmd){.btn .btn-danger role="button"}
 
 <hr>
 
