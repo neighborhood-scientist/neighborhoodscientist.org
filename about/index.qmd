@@ -20,6 +20,8 @@ about:
       href: https://www.linkedin.com/company/your-neighborhood-scientist
     - icon: github
       href: https://github.com/neighborhood-scientist
+    - text: "{{< fa solid heart >}}"
+      href: https://opencollective.com/neighborhood-scientist/donate
 ---
 
 ::::{#about}
@@ -65,6 +67,8 @@ and send your pitch to [audrey@neighborhoodscientist.org](mailto:audrey@neighbor
 
 We are a nonprofit organization incorporated in the state of Michigan, led and
 run by a team of volunteers with expertise in science and science communication.
+
+[**DONATE** {{< fa solid heart >}}](/donate.qmd){.btn .btn-primary role="button"}
 
 #### Board of Directors
 

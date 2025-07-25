@@ -1,7 +1,17 @@
 :::{.align-center}
 
+### [SUBSCRIBE](https://neighborhoodscientist.org/subscribe)
+<br>
 <img src="/img/qrcode-subscribe-slate.png" alt="QR code to https://neighborhoodscientist.org/subscribe">
 
-QR code to <https://neighborhoodscientist.org/subscribe>
+:::
+
+<hr>
+
+:::{.align-center}
+
+### [DONATE](https://neighborhoodscientist.org/donate)
+<br>
+<img src="/img/qrcode-donate-caribbean.png" alt="QR code to https://neighborhoodscientist.org/donate">
 
 :::
