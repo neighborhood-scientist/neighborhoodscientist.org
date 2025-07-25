@@ -1,7 +1,5 @@
 ---
 title: Subscribe to our free newsletter!
-#include-in-header: subscribe-form.html
-engine: knitr
 page-layout: full
 ---
 
