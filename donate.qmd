@@ -1,0 +1,14 @@
+---
+title: Donate to support our work!
+format:
+  html:
+    page-layout: full
+---
+
+Thank you for supporting Your Neighborhood Scientist! Donations are used to pay
+for our overhead costs of running the newsletter, website, and organization
+overall. Whether you support us financially or simply spread the word about our
+work, we're grateful for your help in our mission to improve public
+understanding of science!
+
+<iframe src="https://opencollective.com/embed/neighborhood-scientist/donate?interval=oneTime&amount=20&useTheme=true&backgroundColor=#edddd4&hideFAQ=true" style="width: 100%; min-height: 100vh;"></iframe>

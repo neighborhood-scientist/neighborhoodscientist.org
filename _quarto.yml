@@ -43,6 +43,9 @@ website:
       - icon: github
         href: https://github.com/neighborhood-scientist/
         aria-label: GitHub organization
+      - text: "{{< fa solid heart >}}"
+        href: https://opencollective.com/neighborhood-scientist
+        aria-label: Open Collective
       - icon: rss
         href: index.xml
         aria-label: RSS Feed
@@ -52,9 +55,8 @@ format:
     theme:
       - yns.scss
     embed-resources: false
-
+engine: knitr
 execute:
   freeze: auto
   eval: true
-
 csl: nature.csl # https://www.zotero.org/styles?q=nature

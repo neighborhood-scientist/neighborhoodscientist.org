@@ -176,3 +176,48 @@ img {
     /* Full width on small screens */
   }
 }
+
+// custom div adapted from https://www.andreashandel.com/posts/2025-03-05-custom-quarto-divs/#quarto-callouts-versus-regular-divs
+.yns-callout {
+  //margin: 1em 0;
+  border: 1px solid $sky;
+  //border-left: 10px solid $sky;
+  border-radius: 3px;
+  background-color: white;
+  //padding: 8px 0; /* Ensure no unwanted padding */
+  max-width: 540px;
+  padding-left: 32px;
+}
+
+/* Style the first child element (assumed to be the header) */
+.yns-callout > *:first-child {
+  margin: 0;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  //padding-left: 32px;
+  color: $slate;
+  background-color: white;
+  border-top-right-radius: 10px;
+  font-size: 32px;
+  font-weight: bold;
+  display: flex;
+  align-items: center; /* Vertically center the icon with text */
+  position: relative;
+  min-height: 45px; /* Ensures space for the icon */
+
+  /* Add the icon as a background image */
+  //background-image: url("www/goal.png");
+  //background-size: 35px auto; /* Ensures the image scales properly */
+  //background-repeat: no-repeat;
+  //background-position: 10px center; /* Adjust position */
+}
+
+/* Style the rest of the content */
+.yns-callout > *:not(:first-child) {
+  padding-top: 10px;
+  color: $slate;
+  background-color: white;
+  border-bottom-right-radius: 10px;
+  font-size: 16px;
+}
