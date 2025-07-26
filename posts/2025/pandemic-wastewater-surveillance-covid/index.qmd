@@ -1,8 +1,8 @@
 ---
 title: "From Pipette Tips to Pandemic Surveillance: A Scientist's Evolution"
 author: Ruchi Korde
-date: '2025-06-20'
-draft: false
+date: '2026-06-20'
+draft: true
 categories:
 - pandemic
 - wastewater
