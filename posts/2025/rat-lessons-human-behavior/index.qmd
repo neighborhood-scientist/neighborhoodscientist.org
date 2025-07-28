@@ -1,0 +1,131 @@
+---
+title: Rat Lessons On Human Behavior
+author: Marcel El Kouri
+date: 'YYYY-MM-DD'
+draft: true
+categories:
+- Neuroscience
+- Behavior
+- PTSD
+- Scientist on the Block
+image: photo.jpg
+---
+
+As the bright white rat looked up at the camera and froze, I started my
+stopwatch. His body halted all movement, frozen in time for 1, 2, 3,...9 seconds
+before wandering to the other end of the chamber. I pause the stopwatch as soon
+as his body lurches forward to end his trance. This ordinary Tuesday for me
+makes my parents scratch their heads. How could any of this work help us better
+understand post-traumatic stress disorder (PTSD)?
+
+All humans, at some point, experience moments that really unsettle them.
+Something that leaves them feeling cautious, more vigilant.  Some humans go on
+to avoid certain places constantly, feel high levels of stress or guilt, or feel
+intrusive fearful memories entering their minds by surprise. I research how the
+brain stores memories of traumatic events, and why only some people experience a
+fear response in places unrelated to the trauma. By creating fearful memories in
+the domesticated Sprague Dawley rat, I can study this variation in humans to
+better understand PTSD. 
+
+Because our goal is to understand the biology of human fear, rat fear must be
+artificially created in my experiments. Animals enter a behavioral chamber,
+where a 2-second footshock is delivered to create a fearful memory of that
+location. My animal research is tightly regulated by the American Association
+for Accreditation of Laboratory Animal Care, my university's Unit for Laboratory
+Animal Medicine, and the Institutional Animal Care and Use Committee. These
+three groups must approve any and all experimental treatments using live
+animals, for the simple fact that rats are living creatures who feel and think.
+Any groups working with animals for research are constantly monitored, guided,
+and counseled to ensure excess stress does not occur. 
+
+My fear experiments have three key days:
+1) Receive Shock, 2) "Relaxing" Day, and 3) Return to Shock Location.
+The electric shock on the first day teaches the rats this box is an unsafe
+location. The next day, animals are placed in a chamber they have never seen
+before, with new smells and visuals. The last day sees animals return to the
+same boxes where they formed the fear memory. For reasons I am still
+researching, a select group of rats freeze all body movement in the "Relaxing"
+Day's chamber, but not when returning to the actual box they learned to be
+afraid of. This generalization of the original fearful memory to a place that
+they should not be afraid of is a behavior humans do as well. I can then look at
+their brains to identify the biological reasons the fear memory was generalized.
+
+I am well aware of the fact I am making another living creature experience
+distress so I can help my own species. No computer model exists that perfectly
+replicates how the brain stores memories, so animal research provides a way to
+understand this important topic. All researchers are trained to openly discuss
+ethical responsibility as experiments are designed. I altered my strategy to
+ensure every step of the experiment includes respect for the animals' lives. I
+tickle and gently groom every animal before my experiments begin. My heart
+smiles when I see them run to the edge of the cage to play with me. I minimize
+how much time the animals actually spend in my hands, so the majority of their
+lives can be spent in their home-cage with unlimited food and water. I train -
+and often scold - my students on proper handling techniques to prevent pain when
+animals are moved. I shower with the same soaps and shampoo before entering the
+behavioral room to eliminate the smell of my cat at home. Laboratory
+veterinarians come check on all animals daily, and provide care the moment
+something seems off. Suffering is an unpleasant feature of living. It will
+always exist, though we always have the power to mitigate it.
+
+To create memory, a collection of neurons in your brain link themselves together
+in a large circuit. You can think of it like a series of train tracks,
+connecting numerous hubs to one another. One of those hubs, the hippocampus, has
+a subregion scientists call CA1. This part of the hippocampus sends tracks to
+the amygdala, the brain's fear center. Current research suggests this CA1 path
+to the amygdala is essential for storing memories of fearful locations. The
+actual process of storing memories here seems to vary from human to human and in
+rat to rat. This research will help us better understand what specific
+biological process is happening in CA1 neurons, improving our ability to detect,
+treat, and prevent the development of PTSD in humans. 
+
+The differences in how my rats behave after fear learning reveals a human truth:
+individual variation exists in our responses to stress. 
+
+As a neuroscientist, it would be deeply foolish of me not to apply this lesson
+to the wonderful students I interact with in the laboratory. One of my
+undergraduate mentees wanted to apply to graduate school and had some difficulty
+writing application essays. I noticed every time I would ask for a draft, her
+movements would shift; brows flattened, shoulders shrunk inward, and a
+trampoline magically appeared under their leg.   
+
+I asked her, "How does it feel when you sit down to write a draft?". I listened
+to the earnest outpour of stressors overwhelming my student's mind, and the
+gradual introduction of widened eyes, relaxed shoulders, and deepened breaths. I
+understood that shift in behavior as her realization that I only sought to help
+her. Together we created a writing-wellness plan: 1) must be seated in the
+sunlight by water, 2) have a separate document to write frustrations and ideas,
+and 3) NO ONE CAN CHEW FOOD NEARBY! She was extremely adamant about that last
+one. She certainly loved to write, but felt that she froze up when writing about
+personal experiences. Our plan acknowledged and anticipated this freeze
+response; the next week she had gone from a rough paragraph and a few bullets to
+a fully completed draft. 
+
+The nervous system that exists throughout our bodies serves to protect and guide
+us. Even now as you read this, millions of tiny cells are calculating inputs
+from other cells, allowing your eyes to move across the sentence, and for you to
+understand their words, and for you to feel the sense of being you! When
+traumatic experiences occur, each individual nervous system responds within a
+measurable spectrum. My ongoing research seeks to understand why some of those
+responses lead to PTSD. As I strive to understand these fear responses in my
+animal model, my work has taught me how to add kindness to interactions with
+other humans. All of us can generate fear responses, even when we are in a safe
+place. Accepting that reality gives me the skill to anticipate freezing from
+those around me, time it, and offer kindness to address whatever part of the
+brain was crying out for help. 
+
+<hr>
+
+::: {.callout-note title="About the author" style="" icon=false}
+Marcel El Kouri is an American neuroscientist and naturalist from South Florida.
+He is completing his doctoral research at the University of Michigan through the
+Neuroscience Graduate Program and Department of Psychiatry. His research
+explores how naturally occurring variations in brain activity can predispose an
+individual to psychiatric disorders. El Kouri speaks about the biology of mental
+health and the value of government-funded science research to audiences in
+English, Spanish, and Portuguese. A fan of the Earth's remaining natural spaces,
+El Kouri enjoys camping and identifying plants using the app iNaturalist. 
+:::
+
+::: {.flex-container .align-center}
+![Marcel (right) and his dad (left) in the Florida Everglades.](AUTHOR-PHOTO.jpg){width=70%}
+:::
