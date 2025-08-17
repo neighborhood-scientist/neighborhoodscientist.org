@@ -6,6 +6,7 @@ description: |
   scientific research in the US. In their answers, we hope that you, too, can
   feel some American pride in science this July 4th.
 date: '2025-07-04'
+date-modified: '2025-07-10'
 draft: false
 categories:
 - July 4th
@@ -13,6 +14,7 @@ categories:
 - Research Funding
 image: ScientistQuotes.png
 callout-icon: false
+lightbox: auto
 ---
 
 Here at Your Neighborhood Scientist, we're excited to highlight American
@@ -37,7 +39,7 @@ you, too, can feel some American pride in science this July 4th. Here are a few:
 
 ::: {.flex-container .align-center}
 
-![](ScientistQuotes.png){width=70%}
+![](ScientistQuotes.png){width=60% group="July 4" fig-alt="Quotes from scientists about why they are proud to perform taxpayer-funded research in the US. The quotes are available in their entirety in the article below."}
 
 :::
 
@@ -110,7 +112,7 @@ is still giving to the world."
 :::{.callout-warning style="" title="I am proud to be a source of hope" icon=false}
 "Every day, I am reminded of the fact that we do not understand enough about
 the diseases and conditions we encounter on a regular basis. For example,
-Alzheimer's disease - almost everyone knows someone or is related to someone
+Alzheimer's disease -- almost everyone knows someone or is related to someone
 with Alzheimer's disease. We have made remarkable progress in diagnosing this
 condition, but we still have few truly effective treatments. Research has the
 potential to change this, and I am proud to be among those working to change the
@@ -164,4 +166,185 @@ We hope that you'll share with your neighbors why funding science is patriotic,
 and we hope you feel proud, too. Because those scientific breakthroughs? They're
 made in the USA -- thanks to you.
 
+::: {layout-ncol=3}
+![](img/07-04_various-graphics/MakesAmericaHealthy.png){group="July 4"}
+
+![](img/07-04_various-graphics/AmericanTaxpayer.png){group="July 4"}
+
+![](img/07-04_various-graphics/WorldsLargestFunder.png){group="July 4"}
+:::
+
+
+## July 5th, 2025
+
+Science and research innovations are everywhere -- if you just know where to
+look! Almost everything you see in the natural environment, we know more about
+because of scientific research. Why do the leaves fall from the trees in the
+fall? Why do birds fly south? What makes the tides go in and out every day?
+
+This knowledge is important because it helps us plan for things like hurricanes
+and figure out how to set up home foundations so they don't sink into the
+ground. It also helps us develop innovations that help us preserve the natural
+world -- like window stickers to avoid migrating bird collisions.
+
+Today, we're highlighting scientists who love the taxpayer-funded work they do
+because it helps them understand the world around us. How has science helped you
+understand the world around you?
+
+:::{.flex-container .align-center}
+![](img/07-05_understand-the-world/UnderstandTheWorld-01.png){group="July 5" width=60%}
+:::
+::: {layout-ncol=3}
+
+![](img/07-05_understand-the-world/UnderstandTheWorld-02.png){group="July 5"}
+
+![](img/07-05_understand-the-world/UnderstandTheWorld-03.png){group="July 5"}
+
+![](img/07-05_understand-the-world/UnderstandTheWorld-04.png){group="July 5"}
+:::
+
+## July 6th, 2025
+
+Between 2010 and 2019, 354 out of 356 of drugs approved by the FDA received from
+NIH funding during their development -- a whopping 99.4%. These medications
+included Keytruda, a breakthrough cancer treatment, Trikafta, a life-changing
+therapy for many with cystic fibrosis, and Imbruvica, a breakthrough therapy for
+blood cancers.
+
+Today, we're highlighting some of the scientists who do this NIH-funded work -- the
+ones who are pushing the boundaries of what we know to cure diseases and solve
+today's medical mysteries so that we can have more tomorrows.
+
+Do you or a loved one benefit from medical advances that originated from
+NIH-funded research (if you've ever taken a medication or been to a hospital,
+that answer is yes!) Feel free to share your stories below, and why you're proud
+to fund this work with your tax dollars!
+
+:::{.flex-container .align-center}
+![](img/07-06_cure-diseases/CureDiseases-01.png){group="July 6" width=60%}
+:::
+:::{layout-ncol=3}
+
+![](img/07-06_cure-diseases/CureDiseases-02.png){group="July 6"}
+
+![](img/07-06_cure-diseases/CureDiseases-03.png){group="July 6"}
+
+![](img/07-06_cure-diseases/CureDiseases-04.png){group="July 6"}
+
+![](img/07-06_cure-diseases/CureDiseases-05.png){group="July 6"}
+
+![](img/07-06_cure-diseases/CureDiseases-06.png){group="July 6"}
+
+![](img/07-06_cure-diseases/CureDiseases-07.png){group="July 6"}
+:::
+
+## July 7th, 2025
+
+When you think of creativity, you probably think of artists and writers. But
+what about scientists? For many, scientific research provides an opportunity to
+ask creative questions and generate new ways to answer them. In doing so,
+scientists are able to tackle today's problems from unique angles and provide
+solutions that haven't been used before. Ultimately, this can generate novel
+disease cures and treatment options for people that didn't previously exist.
+
+Today, we're highlighting scientists who love the creative freedom offered by
+basic science research funded by the National Institutes of Health and National
+Science Foundation -- the two largest funders of science research. We are inspired
+by their commitment to finding creative solutions to tough problems, and we hope
+you are, too.
+
+:::{.flex-container .align-center}
+![](img/07-07_creativity/Creativity-01.png){group="July 7" width=60%}
+:::
+:::{layout-ncol=4}
+
+![](img/07-07_creativity/Creativity-02.png){group="July 7"}
+
+![](img/07-07_creativity/Creativity-03.png){group="July 7"}
+
+![](img/07-07_creativity/Creativity-04.png){group="July 7"}
+
+![](img/07-07_creativity/Creativity-05.png){group="July 7"}
+:::
+
+## July 8th, 2025
+
+The two largest funders of research in the U.S. -- the National Institutes of
+Health and the National Science Foundation -- are funded by taxpayer dollars. This
+research is behind every medical breakthrough we see today, from the drugs on
+the market to new imaging methods to detect cancers to robotics that make
+surgery less invasive.
+
+That also means that these breakthroughs are all because of *you*. If you pay
+taxes in the U.S., every cancer cure and Alzheimer's drug and addiction
+treatment option is all thanks to you and the funding from your tax dollars for
+the NIH and NSF. And here at Your Neighborhood Scientist, we think that's
+something to be proud of.
+
+:::{.flex-container .align-center}
+![](img/07-08_give-back/GiveBack-01.png){group="July 8" width=60%}
+:::
+:::{layout-ncol=3}
+
+![](img/07-08_give-back/GiveBack-02.png){group="July 8"}
+
+![](img/07-08_give-back/GiveBack-03.png){group="July 8"}
+
+![](img/07-08_give-back/GiveBack-04.png){group="July 8"}
+:::
+
+## July 9th, 2025
+
+We asked scientists across the U.S. why they're proud to do science here, and
+their answers ranged from curing diseases to giving back to understanding the
+world around us. Many also mentioned that they love to do science here because
+it's *hard*. U.S. science is held to an extremely high standard of
+excellence -- grant funding is competitive, publishing requires multiple reviews
+from peers, and studies have to be designed rigorously. That high standard
+drives scientists to do excellent work with the critical eye that is needed to
+develop cures for today's most complex diseases, from cancer and autoimmune
+disorders to genetic conditions and dementia.
+
+:::{.flex-container .align-center}
+![](img/07-09_high-standard/HighStandard-01.png){group="July 9" width=60%}
+:::
+:::{layout-ncol=3}
+
+![](img/07-09_high-standard/HighStandard-02.png){group="July 9"}
+
+![](img/07-09_high-standard/HighStandard-03.png){group="July 9"}
+
+![](img/07-09_high-standard/HighStandard-04.png){group="July 9"}
+:::
+
+## July 10th, 2025
+
+If you or a loved one has ever received a challenging medical diagnosis, you
+know that navigating a diagnosis like cancer or a genetic condition can be
+daunting. When we asked U.S. scientists why they love the science they do, many
+shared that their work is able to be a source of hope for those who have been
+diagnosed with challenging medical conditions. Each day, new treatment options
+become available that turn previously devastating diagnoses into a hiccup in
+life. Scientists love the work they do because they can provide hope -- because
+they know that their work can increase the quality of life and can even save the
+lives of those impacted by the diseases they study.
+
+:::{.flex-container .align-center}
+![](img/07-10_source-of-hope/SourceOfHope-01.png){group="July 10" width=60%}
+:::
+
+:::{layout-ncol=3}
+
+![](img/07-10_source-of-hope/SourceOfHope-02.png){group="July 10"}
+
+![](img/07-10_source-of-hope/SourceOfHope-03.png){group="July 10"}
+
+![](img/07-10_source-of-hope/SourceOfHope-04.png){group="July 10"}
+
+:::
+
 <hr>
+
+That's a wrap for our feature celebrating American science! We hope that you,
+too, can feel some pride that your taxpayer dollars support such amazing
+scientists and their impactful work.
