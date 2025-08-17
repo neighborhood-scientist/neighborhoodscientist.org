@@ -4,9 +4,9 @@ author: Alyssa Maturen-Backlas, MSc
 date: '2025-04-25'
 draft: false
 categories:
-- vaccines
-- public health
-- history
+- Vaccines
+- Public Health
+- History
 image: vaccine-summit_cropped.jpeg
 ---
 

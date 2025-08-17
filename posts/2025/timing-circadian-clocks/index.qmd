@@ -5,9 +5,9 @@ author: Ronan Lordan, PhD, MA
 date: '2025-05-09'
 draft: false
 categories:
-- circadian rhythms
-- biological clocks
-- basic science
+- Circadian Rhythms
+- Biological Clocks
+- Basic Science
 image: ronan_illustration_nobg-01.png
 bibliography: refs.bib
 ---

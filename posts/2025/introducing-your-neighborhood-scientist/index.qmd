@@ -4,7 +4,7 @@ description: "Launching an initiative to cultivate community-based conversations
 author: "Audrey Drotos"
 date: "2025-02-23"
 draft: false
-categories: [intro, policy]
+categories: [Intro, Policy]
 ---
 
 Hello!

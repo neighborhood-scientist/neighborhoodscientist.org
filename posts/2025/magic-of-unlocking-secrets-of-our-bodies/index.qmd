@@ -4,10 +4,10 @@ author: Francesca Costabile, PhD
 date: '2025-04-04'
 draft: false
 categories:
-- curiosity
-- immunology
-- community
-- science joy
+- Curiosity
+- Immunology
+- Community
+- Science Joy
 image: conductor.png
 ---
 

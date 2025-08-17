@@ -5,9 +5,9 @@ author: Lizbeth F. Gómez, PhD, MPH
 date: '2025-06-09'
 draft: false
 categories:
-- air quality
-- asthma
-- environment
+- Air Quality
+- Asthma
+- Environment
 image: illustration.png
 bibliography: refs.bib
 ---

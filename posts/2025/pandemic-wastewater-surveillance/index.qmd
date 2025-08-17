@@ -5,10 +5,10 @@ author: Ruchi Korde
 date: '2025-06-23'
 draft: false
 categories:
-- microbiology
-- epidemiology
-- wastewater surveillance
-- family
+- Microbiology
+- Epidemiology
+- Wastewater Surveillance
+- Family
 image: ground-water-germs.png
 bibliography: refs.bib # optional
 ---

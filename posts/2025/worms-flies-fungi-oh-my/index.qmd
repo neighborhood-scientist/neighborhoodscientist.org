@@ -6,9 +6,9 @@ author: Mikel D. Haggadone, PhD
 date: '2025-03-14'
 draft: false
 categories:
-- basic science
-- model organisms
-- science history
+- Basic Science
+- Model Organisms
+- Science History
 image: mdh-lab.jpeg
 bibliography: refs.bib
 ---

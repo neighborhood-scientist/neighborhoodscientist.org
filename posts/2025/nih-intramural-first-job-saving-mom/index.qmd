@@ -5,8 +5,8 @@ date: "2025-02-28"
 draft: false
 categories:
   - NIH
-  - clinical trials
-  - family
+  - Clinical Trials
+  - Family
 image: bnw-1.jpg
 bibliography: refs.bib
 ---
