@@ -2,7 +2,7 @@
 title: Rat Lessons On Human Behavior
 author: Marcel El Kouri
 date: '2025-08-22'
-draft: true
+draft: false
 categories:
 - Neuroscience
 - Behavior
