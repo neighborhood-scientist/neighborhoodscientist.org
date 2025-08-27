@@ -5,8 +5,9 @@ format:
     page-layout: full
 ---
 
-Thank you for supporting Your Neighborhood Scientist! Donations are used to pay
-for our overhead costs of running the newsletter, website, and organization
+Thank you for supporting Your Neighborhood Scientist! As a registered 501(c)(3)
+nonprofit organization, all donations are tax-deductible. Donations are used to
+pay for our overhead costs of running the newsletter, website, and organization
 overall. Whether you support us financially or simply spread the word about our
 work, we're grateful for your help in our mission to improve public
 understanding of science!
