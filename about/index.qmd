@@ -65,8 +65,8 @@ and send your pitch to [audrey@neighborhoodscientist.org](mailto:audrey@neighbor
 
 ### Who we are
 
-We are a nonprofit organization incorporated in the state of Michigan, led and
-run by a team of volunteers with expertise in science and science communication.
+We are a 501(c)(3) nonprofit organization led and run by a team of volunteers
+with expertise in science and science communication.
 
 [**DONATE** {{< fa solid heart >}}](/donate.qmd){.btn .btn-primary role="button"}
 
