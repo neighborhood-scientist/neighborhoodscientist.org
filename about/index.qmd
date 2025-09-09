@@ -113,7 +113,7 @@ with expertise in science and science communication.
 
 :::: {.flex-container .align-center}
 ![
-    <a href="www.linkedin.com/in/trinity-pirrone">
+    <a href="https://linkedin.com/in/trinity-pirrone">
     Trinity Pirrone
     </a>
     <br>
