@@ -22,14 +22,14 @@ website:
         href: index.qmd
       - text: Subscribe
         href: subscribe.qmd
+      - text: Donate
+        href: donate.qmd
       - text: About
         menu:
           - text: About
             href: about/index.qmd
           - text: Mission
             href: about/mission.qmd
-          - text: Donate
-            href: donate.qmd
   page-footer:
     left: "&copy; 2025 Your Neighborhood Scientist"
     center:
