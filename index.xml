@@ -9,6 +9,11 @@
 <link>https://neighborhoodscientist.org/</link>
 <atom:link href="https://neighborhoodscientist.org/index.xml" rel="self" type="application/rss+xml"/>
 <description>cultivating community-based conversations around science, science policy, and scientists</description>
+<image>
+<url>https://neighborhoodscientist.org/img/GogglesReflection_whitebg-03.png</url>
+<title>Your Neighborhood Scientist</title>
+<link>https://neighborhoodscientist.org/</link>
+</image>
 <generator>quarto-1.7.32</generator>
 <lastBuildDate>Fri, 22 Aug 2025 00:00:00 GMT</lastBuildDate>
 <item>
