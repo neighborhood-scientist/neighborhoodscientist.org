@@ -7,6 +7,7 @@ website:
   description: "science news for everyone"
   repo-url: https://github.com/neighborhood-scientist/neighborhoodscientist.org
   favicon: /img/favicon_io/favicon.ico
+  image: /img/GogglesReflection_whitebg-03.png
   open-graph: true
   google-analytics: "G-F5F1FC1CK5"
   search:
