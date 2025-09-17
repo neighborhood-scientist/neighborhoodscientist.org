@@ -22,12 +22,13 @@ about:
       href: https://github.com/neighborhood-scientist
     - text: "{{< fa solid heart >}}"
       href: https://opencollective.com/neighborhood-scientist/donate
+page-layout: full
 ---
 
 ::::{#about}
-:::{.flex-container}
+:::{.flex-container .align-center}
 
-<img src='https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/6134ad4ab758d9372a23a7c51f221885e39c10a9/img/GogglesReflection_transparent-03-03.png' alt='goggles with a reflection of a neighborhood'>
+<img src='https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/6134ad4ab758d9372a23a7c51f221885e39c10a9/img/GogglesReflection_transparent-03-03.png' alt='goggles with a reflection of a neighborhood' width=70%>
 
 <!--
 [{{< fa regular envelope >}}](mailto:your@neighborhoodscientist.org) &nbsp; [{{< fa brands facebook >}}](https://www.facebook.com/neighborhoodscientist) &nbsp; [{{< fa brands bluesky >}}](https://bsky.app/profile/your.neighborhoodscientist.org) &nbsp; [{{< fa brands mastodon >}}](https://mastodon.social/@your.neighborhoodscientist.org@bsky.brid.gy) &nbsp; [{{< fa brands github >}}](https://github.com/neighborhood-scientist)
@@ -72,7 +73,7 @@ with expertise in science and science communication.
 
 #### Board of Directors
 
-::: {layout-ncol=3}
+::: {layout-ncol=4}
 :::: {.flex-container .align-center}
 ![
     Audrey Drotos, PhD
@@ -102,7 +103,7 @@ with expertise in science and science communication.
 
 #### The Team
 
-::: {layout-ncol=3}
+::: {layout-ncol=4}
 :::: {.flex-container .align-center}
 ![
     Kate Giffin
@@ -119,5 +120,23 @@ with expertise in science and science communication.
     <br>
     Editor
 ](/img/profiles/trinity_profile.jpg)
+::::
+
+:::: {.flex-container .align-center}
+![
+    Rebecca Wolfe, PhD
+    <br>
+    Outreach and Events Lead
+](/img/profiles/rebecca_headshot_square.jpeg)
+::::
+
+:::: {.flex-container .align-center}
+![
+    <a href="https://www.linkedin.com/in/elizabet-w/">
+    Elizabet Wendt
+    </a>
+    <br>
+    Illustrator & Marketing Specialist
+](/img/profiles/elizabet_headshot.jpg)
 ::::
 :::
