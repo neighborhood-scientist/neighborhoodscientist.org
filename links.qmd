@@ -18,6 +18,8 @@ navbar: false
 
 [Donate {{< fa solid heart >}}](/donate.qmd){.btn .btn-outline-primary role="button" target="_blank" title="Link to our Open Collective"}
 
+[Website](/index.qmd){.btn .btn-outline-primary role="button"}
+
 [{{< fa brands facebook >}} Facebook](https://www.facebook.com/neighborhoodscientist){.btn .btn-outline-primary role="button"}
 
 [{{< fa brands instagram >}} Instagram](https://www.instagram.com/your.neighborhoodscientist){.btn .btn-outline-primary role="button"}
