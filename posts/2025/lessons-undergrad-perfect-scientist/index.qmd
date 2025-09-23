@@ -2,7 +2,7 @@
 title: Lessons from an Undergraduate Researcher on How to Build the Perfect Scientist (Yes, Really!)
 author: Charity Robbins
 date: '2025-09-23'
-draft: true
+draft: false
 categories:
 - Science Joy
 - Training
