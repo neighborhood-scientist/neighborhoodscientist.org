@@ -124,7 +124,9 @@ with expertise in science and science communication.
 
 :::: {.flex-container .align-center}
 ![
+    <a href="https://www.rebeccawolfe.phd/">
     Rebecca Wolfe, PhD
+    </a>
     <br>
     Outreach and Events Lead
 ](/img/profiles/rebecca_headshot_square.jpeg)
