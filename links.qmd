@@ -14,6 +14,8 @@ navbar: false
 </a>
 ::::
 
+[Register for our event on Sept 29: Brains, Biology, and Big Pharma](https://luma.com/m51ug5x1){.btn .btn-outline-danger role="button"}
+
 [Subscribe to our newsletter](/subscribe.qmd){.btn .btn-outline-primary role="button"}
 
 [Donate {{< fa solid heart >}}](/donate.qmd){.btn .btn-outline-primary role="button" target="_blank" title="Link to our Open Collective"}
