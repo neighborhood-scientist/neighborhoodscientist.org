@@ -60,7 +60,7 @@ ask that you distill your message down to a specific topic, as this will be most
 accessible to the general public. If you feel that your topic necessitates a
 longer article, we would be happy to consider releasing a multi-part series.
 
-### AI/ML Policy
+#### AI/ML Policy
 
 Please view our [AI/ML policy](/docs/ai-policy.qmd) and ensure you abide by it while writing your article.
 
