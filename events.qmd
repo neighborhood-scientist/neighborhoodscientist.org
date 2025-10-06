@@ -1,0 +1,25 @@
+---
+title: "Events"
+description: "In-person events hosted by scientists in your neighborhood!"
+listing:
+  id: events
+  contents:
+    - title: Brains, Biology, and Big Pharma
+      author: Neighborhood Science Night
+      date: '2025-09-29'
+      image: /img/posters/YNS_Event_Poster_1.png
+      path: https://luma.com/m51ug5x1
+  feed: true
+  categories: false
+  image-height: 500px
+  sort: "date desc"
+  type: grid
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+#include-after-body: subscribe-form.html
+---
+
+:::{#events}
+:::
