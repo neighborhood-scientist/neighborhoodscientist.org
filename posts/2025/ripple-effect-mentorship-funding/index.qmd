@@ -1,0 +1,57 @@
+---
+title: "Paying it forward: the ripple effect of scientific mentorship and federal funding"
+author: Katie Emery, PhD
+date: '2025-10-08'
+draft: true
+categories:
+- neuroscience
+- mentorship
+image: photo.jpg
+bibliography: refs.bib
+title-block-banner: "#c57335"
+include-in-header: header.html
+include-after-body: footer.html
+---
+
+
+In my junior year AP chemistry class at Taos High School in 2014, Dr. Roger Cone came to visit. As a researcher at Vanderbilt University, he came to my class and said he had a program, The Aspirnaut Program, for students from places like Taos to go to spend 6 weeks of the summer getting paid to do biomedical research. He would save two spots specifically for Taos Students. Dr. Cone saw me. The Aspirnaut program saw me. If it weren't for them, I would not be writing this today.
+
+At Vanderbilt, I worked in a lab that studied autism spectrum disorder and the function of a brain protein known as the dopamine transporter. The dopamine transporter works like a vacuum to clean up extra dopamine during communication in the brain. The most mindblowing part of my summer was using cocaine to block the function of the dopamine transporter. Blocking the transporter causes dopamine to continue to signal after it should have been cleaned up. This was the first time I thought about how drugs act in the brain and my perspective would never be the same.
+
+Growing up in Taos, I saw my fair share of substance use and abuse. It turns out that drugs of abuse (alcohol, cocaine, etc.) cause long lasting and potentially irreversible changes in the stress and reward pathways in our brain[@berridge_liking_2016;@koob_drug_2021]. It is so much more complicated than just willpower and saying no to drugs. It is a battle against your own brain. And your brain can be sneaky. Why do people start to use drugs? Why do they keep using drugs even when they get in trouble or have to make huge sacrifices to keep using? Why do some people have trouble stopping while others don't?
+
+To start to answer these questions, I have done the research first-hand. This goes beyond reading articles to gather information. I have spent years of my life designing and performing experiments, talking to other scientists, being challenged about my results, and then doing more experiments.
+
+I started doing addiction research in 2018 as an undergraduate and I have continued in my role as a professor. The Aspirnaut Program expanded to the University of Michigan in 2017 during my junior year of college and I was pulled in to help start the program as a resident advisor for a new batch of high school students, including some from Taos. Through Aspirnaut, I started working with Dr. Kent Berridge as an undergraduate. I knew I wanted to continue in research, so I applied to graduate school at UM and Dr. Berridge went on to advise my PhD research focused on addiction. During my PhD, I had the incredible fortune of mentoring over 20 undergraduate students who have gone on to pursue their own research and medical school.
+
+::: {.flex-container .align-center}
+![Illustrated by <a href="https://www.linkedin.com/in/elizabet-w/">Elizabet Wendt</a>.](EmergyLegacy.png){width=500px}
+:::
+
+My work focuses on how stress systems in our brains can make rewarding things extra attractive and irresistible. Using a rat model, I am able to activate stress systems in brain regions like the amygdala, specifically corticotropin releasing factor neurons, to understand how these systems intensify motivation and reward seeking. In humans, this might mean that you are more likely to go buy yourself a sweet treat when you have a big stressful deadline coming up, even though you said you were going to eat healthy and save money. It might mean that someone who has been sober for years has a particularly rough day at work and feels the intense pull to stop by the liquor store on the way home. However, stress systems in our brain aren't just activated by negative stress, but by anything exciting. Maybe your sober friend is celebrating the birth of their nephew… and maybe they are having a hard time staying sober for it.
+
+My research is one perspective on why someone might relapse. Beyond stress, the feelings, people, and objects that someone associated with their drug use might also be triggers for relapse. Scientists will say that these triggers are causing an unconscious habitual response [@everitt_drug_2016], severe anxiety and distress that someone might seek to alleviate2, and/or intense drug cravings that may be extremely difficult to resist [@berridge_liking_2016]. This is where your brain can be sneaky  --  these feelings do not always rise to the level of consciousness. That does not mean that the decision to seek out drugs is unconscious, but that the underlying motivations are not always clear. How do you treat a problem that you don't know the whole cause of?
+
+::: {.flex-container .align-center}
+![Illustrated by <a href="https://www.linkedin.com/in/elizabet-w/">Elizabet Wendt</a>.](EmeryStressReward.png){width=500px}
+:::
+
+Taos is well-known for its hippie heritage. This means I grew up with an ingrained suspicion of Big Pharma. Many Taoseños are not alone in feeling that addiction should not be treated with another drug. Isn't that just replacing one addiction with another? Even if we could treat addiction with medication, is that always the most effective course of action for every person? That's not to say I don't use any medications or vaccines, but that I am extremely aware of the profit-over-people healthcare system that we live in. People make the best decisions about their health that they can with the information that speaks to the world that they experience. I firmly believe that our lifestyles, diets, exercise habits, etc. are the first and foremost things we can control that impact our mental and physical well-being. But everything is not always within our control and medication can be an incredibly useful tool. When it comes to addiction, we cannot control our genetics or the environment in which we grew up. We cannot predict whether we will be in the minority of drug users who struggle with addiction.
+
+After graduating from the University of Michigan with my PhD in 2024, I started as a professor of neuroscience at Regis University in Denver. As I start up my lab with a new group of 10 undergraduate students, we are asking these questions. What can we do to manage stress or anxiety to reduce drug seeking? Are there effective pharmacological interventions? Are there effective behavioral interventions? And even further, how do we bring this information into our community? Can we help people understand how drugs impact the brain so they can make more informed choices about drug use before it can develop into an addiction? What is my responsibility, as a scientist, to share what I know with my neighbors?
+
+Looking back at my fledgling career in science, I like to think that I have done work that would make my Taos community proud. What can I do for my community now that I am closer to home? As I stretch my wings as an independent scientist for the first time, I am looking for ways to pay forward the experiences and support that led me here.
+
+And what exactly was that support? It was people, obviously. My high school teachers, my coaches, my scientific mentors, the students that I mentored, the other graduate students that I worked with, and the list goes on. But it was also you, a taxpayer.
+
+The Aspirnaut Program that launched my passion for science was funded by a federal grant from the National Institutes of Health called an R25. R25 grants are specifically for education projects, often to support students who might not otherwise have access to science. Students like me, from rural New Mexico, who couldn't simply walk down the road to volunteer and gain research experience. Students who didn't even know what it meant to be a scientist. Students who didn't know research was an option.
+
+Funding from the R25 made it possible for over 350 high school and undergraduate students, including at least 10 students from Taos, to gain research experience through the Aspirnaut program [@aspirnaut_2025]. The program instills the need for us to pay forward our opportunities and is a driving force behind my mentorship of young students. This year, the Aspirnaut program learned that the R25 they have had for nearly two decades is one of many that the government will cease to fund.
+
+If you take anything away from my story, please let it be the overwhelming gratitude that I have for the opportunity to be a scientist. Let it be the 40 students that I have mentored thus far because of the handful of scientists that mentored me. Let it be the tangible change in the way we think about and treat addiction in our communities. Let it be that my story was only possible because of that federal grant. Know that my story is because of you.
+
+<hr>
+
+::: {.callout-warning title="About the author" style="" icon=false}
+Katie is an Assistant Professor of Neuroscience at Regis University in Denver, CO. When they are not in the lab, they are on the pitch, on the trail, in the gym, or napping to recover from all of those things.
+:::
