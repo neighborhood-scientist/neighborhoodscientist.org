@@ -4,8 +4,10 @@ author: Katie Emery, PhD
 date: '2025-10-08'
 draft: true
 categories:
-- neuroscience
-- mentorship
+- Neuroscience
+- Mentorship
+- NIH
+- Research Funding
 image: photo.jpg
 bibliography: refs.bib
 title-block-banner: "#c57335"
