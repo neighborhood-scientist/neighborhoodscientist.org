@@ -9,7 +9,7 @@ categories:
 - Mentorship
 - NIH
 - Research Funding
-image: photo.jpg
+image: EmeryStressReward.png
 bibliography: refs.bib
 title-block-banner: '#c57335'
 include-in-header: header.html
