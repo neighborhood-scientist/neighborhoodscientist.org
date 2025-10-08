@@ -16,7 +16,6 @@ include-in-header: header.html
 include-after-body: footer.html
 ---
 
-
 In my junior year AP chemistry class at Taos High School in 2014, Dr. Roger Cone came to visit. As a researcher at Vanderbilt University, he came to my class and said he had a program, The Aspirnaut Program, for students from places like Taos to go to spend 6 weeks of the summer getting paid to do biomedical research. He would save two spots specifically for Taos Students. Dr. Cone saw me. The Aspirnaut program saw me. If it weren't for them, I would not be writing this today.
 
 At Vanderbilt, I worked in a lab that studied autism spectrum disorder and the function of a brain protein known as the dopamine transporter. The dopamine transporter works like a vacuum to clean up extra dopamine during communication in the brain. The most mindblowing part of my summer was using cocaine to block the function of the dopamine transporter. Blocking the transporter causes dopamine to continue to signal after it should have been cleaned up. This was the first time I thought about how drugs act in the brain and my perspective would never be the same.
