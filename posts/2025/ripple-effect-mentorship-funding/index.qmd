@@ -1,8 +1,9 @@
 ---
-title: "Paying it forward: the ripple effect of scientific mentorship and federal funding"
+title: 'Paying it forward: the ripple effect of scientific mentorship and federal
+  funding'
 author: Katie Emery, PhD
 date: '2025-10-08'
-draft: true
+draft: false
 categories:
 - Neuroscience
 - Mentorship
@@ -10,7 +11,7 @@ categories:
 - Research Funding
 image: photo.jpg
 bibliography: refs.bib
-title-block-banner: "#c57335"
+title-block-banner: '#c57335'
 include-in-header: header.html
 include-after-body: footer.html
 ---
