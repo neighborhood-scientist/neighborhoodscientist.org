@@ -1,0 +1,9 @@
+---
+title: Toolkit for hosting in-person events
+---
+
+Example checklist:
+
+- [ ] item 1
+- [ ] item 2
+- [ ] item 3
