@@ -63,7 +63,7 @@
 <!--  END - We recommend to place the above code in head tag of your website html -->
 
 <!-- START - We recommend to place the below code where you want the form in your website html  -->
-<div class="sib-form" style="text-align: center; background-color: transparent">
+<div class="sib-form" style="text-align: center; background-color: #eff2f7">
   <div id="sib-form-container" class="sib-form-container">
     <div
       id="error-message"
@@ -138,7 +138,7 @@
       <form
         id="sib-form"
         method="POST"
-        action="https://f7adce6c.sibforms.com/serve/MUIFAAROysxLH_kVtFqxdUfoQigugB6p0Mv-v3kYJCn64XrsoJ8_lMS90iAHggWdTtvn3AgEF6CBlORuILbdgVLHWY2Or4k-05PG1o8zcUtIpPtlaZ41ssIQnEU9iihvYrO8f3ac8rpUI-VjdJaZjKwqE2zZxne6uiCVAMwnft48NrzI8OL8C1DlFDTWken84T80o2ZJfwvJJzbX"
+        action="https://f7adce6c.sibforms.com/serve/MUIFACUk_yWv4YqtRzo5zaCQm2FHRfbbfLEsoWs_MLooKBArd4_JJPnheAT7ON29JQCj_P1FglmKceixjxZeFDmVH66xUGj43sVbZKR8RvMOcFJhJgMkQRrRV1lpgMG0DV5rkqaJjtanegg79-8qLQmSdqvK_GDdL8bwAgpGEdMR8i0_MgttdOeHdOhDEwHQQiALcKBysfbvRd4T"
         data-type="subscription"
       >
         <div style="padding: 8px 0">
@@ -154,7 +154,7 @@
               text-align: left;
             "
           >
-            <p>Newsletter</p>
+            <p>Email subscription</p>
           </div>
         </div>
         <div style="padding: 8px 0">
@@ -171,8 +171,8 @@
           >
             <div class="sib-text-form-block">
               <p>
-                Subscribe to our newsletter and stay updated on the latest posts
-                from Your Neighborhood Scientist!
+                Subscribe to our newsletter and fundraising emails to stay
+                updated on what's happening at YNS!
               </p>
             </div>
           </div>
@@ -234,7 +234,108 @@
                   text-align: left;
                 "
               >
-                Provide your email address to subscribe.
+                Provide your email address to subscribe. For e.g abc@xyz.com
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0">
+          <div class="sib-checkbox-group sib-form-block" data-required="true">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row">
+                <label
+                  class="entry__label"
+                  style="
+                    font-weight: 700;
+                    text-align: left;
+                    font-size: 16px;
+                    text-align: left;
+                    font-weight: 700;
+                    font-family: Helvetica, sans-serif;
+                    color: #283d3b;
+                  "
+                  data-required="*"
+                  >What types of emails do you wish to receive?</label
+                >
+                <div style="">
+                  <div class="entry__choice">
+                    <label class="checkbox__label">
+                      <input
+                        type="checkbox"
+                        class="input_replaced"
+                        name="lists_25[]"
+                        data-value="science newsletter"
+                        value="2"
+                        data-required="true"
+                      />
+                      <span
+                        class="checkbox checkbox_tick_positive"
+                        style="margin-left:"
+                      ></span
+                      ><span
+                        style="
+                          font-size: 16px;
+                          text-align: left;
+                          font-family: Helvetica, sans-serif;
+                          color: #3c4858;
+                          background-color: transparent;
+                        "
+                        >science newsletter</span
+                      >
+                    </label>
+                  </div>
+                  <div class="entry__choice">
+                    <label class="checkbox__label">
+                      <input
+                        type="checkbox"
+                        class="input_replaced"
+                        name="lists_25[]"
+                        data-value="fundraising emails"
+                        value="11"
+                        data-required="true"
+                      />
+                      <span
+                        class="checkbox checkbox_tick_positive"
+                        style="margin-left:"
+                      ></span
+                      ><span
+                        style="
+                          font-size: 16px;
+                          text-align: left;
+                          font-family: Helvetica, sans-serif;
+                          color: #3c4858;
+                          background-color: transparent;
+                        "
+                        >fundraising emails</span
+                      >
+                    </label>
+                  </div>
+                </div>
+              </div>
+              <label
+                class="entry__error entry__error--primary"
+                style="
+                  font-size: 16px;
+                  text-align: left;
+                  font-family: Helvetica, sans-serif;
+                  color: #661d1d;
+                  background-color: #ffeded;
+                  border-radius: 3px;
+                  border-color: #ff4949;
+                "
+              >
+              </label>
+              <label
+                class="entry__specification"
+                style="
+                  font-size: 12px;
+                  text-align: left;
+                  font-family: Helvetica, sans-serif;
+                  color: #8390a4;
+                  text-align: left;
+                "
+              >
+                You may subscribe to multiple lists.
               </label>
             </div>
           </div>
@@ -254,7 +355,7 @@
                 font-size: 16px;
                 text-align: left;
                 font-weight: 700;
-                font-family: Lato, webFonts;
+                font-family: Helvetica, sans-serif;
                 color: #ffffff;
                 background-color: #19727b;
                 border-radius: 3px;
@@ -301,6 +402,8 @@
 
   window.GENERIC_INVALID_MESSAGE =
     "The information provided is invalid. Please review the field format and try again.";
+
+  window.REQUIRED_MULTISELECT_MESSAGE = "Please select at least 1 option";
 
   window.translation = {
     common: {
