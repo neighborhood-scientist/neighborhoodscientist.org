@@ -13,6 +13,14 @@ website:
   search:
     location: navbar
     type: overlay
+  announcement:
+    icon: megaphone
+    dismissable: true
+    content: |
+      We're raising $500 during the month of November to fund our mission. [Donate today](/donate.qmd) to help us bridge the gap between scientists and the communities they serve! &nbsp; [Donate {{< fa solid heart >}}](/donate.qmd){.btn .btn-sm .btn-danger role="button"}
+
+    type: primary
+    position: below-navbar
   navbar:
     logo: /img/BeakerHouse_Finals_Favicon.png
     logo-alt: |
