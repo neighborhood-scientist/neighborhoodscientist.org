@@ -4,6 +4,11 @@ description: "In-person events hosted by scientists in your neighborhood!"
 listing:
   id: events
   contents:
+    - title: Oceans! Coasts. Shores. Seafloors.
+      author: Neighborhood Science Night
+      date: '2025-12-05'
+      image: /img/oceans-coasts-shores-seafloors.png
+      path: https://luma.com/05a0p7wx
     - title: Brains, Biology, and Big Pharma
       author: Neighborhood Science Night
       date: '2025-09-29'
@@ -11,7 +16,7 @@ listing:
       path: https://luma.com/m51ug5x1
   feed: true
   categories: false
-  image-height: 500px
+  image-height: 400px
   sort: "date desc"
   type: grid
   sort-ui: false
