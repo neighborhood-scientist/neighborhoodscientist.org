@@ -14,6 +14,8 @@ navbar: false
 </a>
 ::::
 
+[Sign up for our next in-person event in San Francisco!](https://luma.com/05a0p7wx){.btn .btn-primary role="button"}
+
 [Subscribe to our newsletter](/subscribe.qmd){.btn .btn-outline-primary role="button"}
 
 [Donate {{< fa solid heart >}}](/donate.qmd){.btn .btn-danger role="button" target="_blank" title="Link to our donation page"}
