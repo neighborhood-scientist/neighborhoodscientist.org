@@ -12,11 +12,11 @@ listing:
     - title: Brains, Biology, and Big Pharma
       author: Neighborhood Science Night
       date: '2025-09-29'
-      image: /img/posters/YNS_Event_Poster_1.png
+      image: /img/posters/YNS_Event_Poster_1_crop.png
       path: https://luma.com/m51ug5x1
   feed: true
   categories: false
-  image-height: 400px
+  image-height: 350px
   sort: "date desc"
   type: grid
   sort-ui: false
