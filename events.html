@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="In-person events hosted by scientists in your neighborhood!">
 
-<title>links – Your Neighborhood Scientist</title>
+<title>Events – Your Neighborhood Scientist</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href=".//img/favicon_io/favicon.ico" rel="icon">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -69,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-events .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-events'] = new List('listing-events', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-F5F1FC1CK5"></script>
 
 <script type="text/javascript">
@@ -79,48 +111,186 @@ gtag('js', new Date());
 gtag('config', 'G-F5F1FC1CK5', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="– Your Neighborhood Scientist">
-<meta property="og:image" content="https://neighborhoodscientist.org/img/GogglesReflection_whitebg-03.png">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="Your Neighborhood Scientist" href="events.xml" data-external="1"><meta property="og:title" content="Events – Your Neighborhood Scientist">
+<meta property="og:description" content="In-person events hosted by scientists in your neighborhood!">
+<meta property="og:image" content="https://neighborhoodscientist.org/img/oceans-coasts-shores-seafloors.png">
 <meta property="og:site_name" content="Your Neighborhood Scientist">
-<meta property="og:image:height" content="4830">
-<meta property="og:image:width" content="7788">
+<meta property="og:image:height" content="400">
+<meta property="og:image:width" content="400">
 </head>
 
-<body class="fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./img/BeakerHouse_Finals_Favicon.png" alt="Logo of Your Neighborhood Scientist: a house with a beaker as the roof.
+" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Your Neighborhood Scientist</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./events.html" aria-current="page"> 
+<span class="menu-text">Events</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./subscribe.html"> 
+<span class="menu-text">Subscribe</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./donate.html"> 
+<span class="menu-text">Donate</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">About</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-about">    
+        <li>
+    <a class="dropdown-item" href="./about/index.html">
+ <span class="dropdown-text">About</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./about/mission.html">
+ <span class="dropdown-text">Mission</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
   <div id="quarto-announcement" data-announcement-id="6cb735cb9e2542f1e50dcfb11729105a" class="alert alert-primary hidden"><i class="bi bi-megaphone quarto-announcement-icon"></i><div class="quarto-announcement-content">
 <p>We’re raising $500 during the month of November to fund our mission. <a href="./donate.html">Donate today</a> to help us bridge the gap between scientists and the communities they serve! &nbsp; <a href="./donate.html" class="btn btn-sm btn-danger" role="button">Donate <i class="fa-solid fa-heart" aria-label="heart"></i></a></p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content">
 
-
-
-
-<div class="align-center">
-<div class="flex-container">
-<p><a href="./index.html"> <img src="https://raw.githubusercontent.com/neighborhood-scientist/neighborhoodscientist.org/6134ad4ab758d9372a23a7c51f221885e39c10a9/img/GogglesReflection_transparent-03-03.png" alt="goggles with a reflection of a neighborhood" width="50%"> </a></p>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Events</h1>
 </div>
-<p><a href="https://luma.com/05a0p7wx" class="btn btn-primary" role="button">Sign up for our next in-person event in San Francisco!</a></p>
-<p><a href="./subscribe.html" class="btn btn-outline-primary" role="button">Subscribe to our newsletter</a></p>
-<p><a href="./donate.html" class="btn btn-danger" role="button" target="_blank" title="Link to our donation page">Donate <i class="fa-solid fa-heart" aria-label="heart"></i></a></p>
-<p><a href="./index.html" class="btn btn-outline-primary" role="button"><i class="fa-solid fa-globe" aria-label="globe"></i> Website</a></p>
-<p><a href="https://www.facebook.com/neighborhoodscientist" class="btn btn-outline-primary" role="button"><i class="fa-brands fa-facebook" aria-label="facebook"></i> Facebook</a></p>
-<p><a href="https://www.instagram.com/your.neighborhoodscientist" class="btn btn-outline-primary" role="button"><i class="fa-brands fa-instagram" aria-label="instagram"></i> Instagram</a></p>
-<p><a href="https://www.linkedin.com/company/your-neighborhood-scientist" class="btn btn-outline-primary" role="button"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i> LinkedIn</a></p>
-<p><a href="https://bsky.app/profile/your.neighborhoodscientist.org" class="btn btn-outline-primary" role="button"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i> Bluesky</a></p>
-<p><a href="https://mastodon.social/@your.neighborhoodscientist.org@bsky.brid.gy" class="btn btn-outline-primary" role="button"><i class="fa-brands fa-mastodon" aria-label="mastodon"></i> Mastodon</a></p>
-<p><a href="mailto:your@neighborhoodscientist.org" class="btn btn-outline-primary" role="button"><i class="fa-regular fa-envelope" aria-label="envelope"></i> Email</a></p>
+
+<div>
+  <div class="description">
+    In-person events hosted by scientists in your neighborhood!
+  </div>
 </div>
+
+
+<div class="quarto-title-meta column-page">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div id="listing-events" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1764892800000">
+<a href="https://luma.com/05a0p7wx" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/oceans-coasts-shores-seafloors.png" class="thumbnail-image card-img" style="height: 350px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Oceans! Coasts. Shores. Seafloors.
+</h5>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Neighborhood Science Night
+</div>
+<div class="listing-date">
+Dec 5, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1759104000000">
+<a href="https://luma.com/m51ug5x1" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./img/posters/YNS_Event_Poster_1_crop.png" class="thumbnail-image card-img" style="height: 350px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Brains, Biology, and Big Pharma
+</h5>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Neighborhood Science Night
+</div>
+<div class="listing-date">
+Sep 29, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+
 
 
 

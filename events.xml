@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Your Neighborhood Scientist</title>
+<link>https://neighborhoodscientist.org/events.html</link>
+<atom:link href="https://neighborhoodscientist.org/events.xml" rel="self" type="application/rss+xml"/>
+<description>In-person events hosted by scientists in your neighborhood!</description>
+<image>
+<url>https://neighborhoodscientist.org/img/GogglesReflection_whitebg-03.png</url>
+<title>Your Neighborhood Scientist</title>
+<link>https://neighborhoodscientist.org/events.html</link>
+</image>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Fri, 05 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Oceans! Coasts. Shores. Seafloors.</title>
+  <link>https://neighborhoodscientist.org/</link>
+  <description></description>
+  <guid>https://neighborhoodscientist.org/</guid>
+  <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://neighborhoodscientist.org/img/oceans-coasts-shores-seafloors.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Brains, Biology, and Big Pharma</title>
+  <link>https://neighborhoodscientist.org/</link>
+  <description></description>
+  <guid>https://neighborhoodscientist.org/</guid>
+  <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://neighborhoodscientist.org/img/posters/YNS_Event_Poster_1_crop.png" medium="image" type="image/png" height="143" width="144"/>
+</item>
+</channel>
+</rss>
