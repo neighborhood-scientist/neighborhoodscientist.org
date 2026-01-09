@@ -13,6 +13,10 @@ bibliography: refs.bib # optional
 
 ARTICLE CONTENT GOES HERE
 
+::: {.flex-container .align-center}
+![Illustrated by <a href="https://WEBSITE">ILLUSTRATOR</a>.](image.png){width=500px}
+:::
+
 <hr>
 
 ::: {.callout-note title="About the author" style="" icon=false}
