@@ -17,10 +17,9 @@ website:
     icon: megaphone
     dismissable: true
     content: |
-      We're raising $500 during the month of November to fund our mission. [Donate today](/donate.qmd) to help us bridge the gap between scientists and the communities they serve! &nbsp; [Donate {{< fa solid heart >}}](/donate.qmd){.btn .btn-sm .btn-danger role="button"}
-
+      We're accepting article pitches from scientists and friends of science! Want to have your work featured? Please reach out to [audrey@neighborhoodscientist.org](mailto:audrey@neighborhoodscientist.org)
     type: primary
-    position: below-navbar
+    position: above-navbar
   navbar:
     logo: /img/BeakerHouse_Finals_Favicon.png
     logo-alt: |
