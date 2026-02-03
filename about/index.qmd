@@ -103,7 +103,7 @@ with expertise in science and science communication.
 
 #### The Team
 
-::: {layout-ncol=4}
+::: {layout-ncol=3}
 :::: {.flex-container .align-center}
 ![
     Kate Giffin
@@ -132,6 +132,10 @@ with expertise in science and science communication.
 ](/img/profiles/rebecca_headshot_square.jpeg)
 ::::
 
+:::
+
+#### Alumni
+
 :::: {.flex-container .align-center}
 ![
     <a href="https://www.linkedin.com/in/elizabet-w/">
@@ -141,4 +145,3 @@ with expertise in science and science communication.
     Illustrator & Marketing Specialist
 ](/img/profiles/elizabet_headshot.jpg)
 ::::
-:::
