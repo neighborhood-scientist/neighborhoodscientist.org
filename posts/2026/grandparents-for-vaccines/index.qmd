@@ -1,0 +1,50 @@
+---
+title: Grandparents For Vaccines
+description: OPTIONAL SUBTITLE
+author: Bradley J Roth, PhD
+date: '2026-02-02'
+draft: false
+categories:
+- Vaccines
+- Family
+image: IMAGE.png
+#bibliography: refs.bib # optional
+---
+
+ARTICLE CONTENT GOES HERE
+
+TODO: troubleshoot youtube embedding
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/shVxFcVpCT0?si=-M1c5XTKKKrqt2dH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{< video https://www.youtube-nocookie.com/embed/shVxFcVpCT0?si=-M1c5XTKKKrqt2dH >}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/shVxFcVpCT0?si=nuaiS5AA-pCJZsYe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{< video https://www.youtube.com/embed/shVxFcVpCT0?si=nuaiS5AA-pCJZsYe >}}
+
+[Dedicated to Olivia Dahl](https://youtube.com/shorts/7EDZ1RC6Uhg?si=VZjwRYDbsH5t-Rhk)
+
+{{< video https://www.youtube.com/embed/7EDZ1RC6Uhg?si=VZjwRYDbsH5t-Rhk >}}
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9BT_FSJBJ-c?si=xuO90_pmlrdN5WMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{< video https://www.youtube-nocookie.com/embed/9BT_FSJBJ-c?si=xuO90_pmlrdN5WMd >}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9BT_FSJBJ-c?si=NiRaDHaK-JO7EYYZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+{{< video https://www.youtube.com/embed/9BT_FSJBJ-c?si=NiRaDHaK-JO7EYYZ >}}
+
+::: {.flex-container .align-center}
+![Illustrated by <a href="https://WEBSITE">ILLUSTRATOR</a>.](IMAGE.png){width=500px}
+:::
+
+<hr>
+
+::: {.callout-note title="About the author" style="" icon=false}
+AUTHOR BIO GOES HERE
+:::
+
+::: {.flex-container .align-center}
+![](./SharmaRothBlackboard.jpg){width=70%}
+:::
