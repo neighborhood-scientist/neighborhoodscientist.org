@@ -94,7 +94,7 @@ with expertise in science and science communication.
 
 :::: {.flex-container .align-center}
 ![
-    Katie Furman
+    Katie Furman, PhD
     <br>
     Graphic Design Lead
 ](/img/profiles/katie_furman.jpg)
@@ -103,7 +103,7 @@ with expertise in science and science communication.
 
 #### The Team
 
-::: {layout-ncol=3}
+::: {layout-ncol=4}
 :::: {.flex-container .align-center}
 ![
     Kate Giffin
@@ -132,9 +132,31 @@ with expertise in science and science communication.
 ](/img/profiles/rebecca_headshot_square.jpeg)
 ::::
 
+:::: {.flex-container .align-center}
+![
+    Amanda White
+    <br>
+    Grants Specialist
+](/img/profiles/amanda_profile.jpg)
+::::
+
+<!--
+:::: {.flex-container .align-center}
+![
+    RA Vignesh
+    <br>
+    Social Media and Marketing Specialist
+](/img/profiles/vignesh_profile.jpg)
+::::
+-->
 :::
 
-#### Alumni
+<details>
+<summary>
+**Alumni**
+</summary>
+
+::: {layout-ncol=4}
 
 :::: {.flex-container .align-center}
 ![
@@ -145,3 +167,6 @@ with expertise in science and science communication.
     Illustrator & Marketing Specialist
 ](/img/profiles/elizabet_headshot.jpg)
 ::::
+
+:::
+</details>
