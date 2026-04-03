@@ -1,16 +1,16 @@
 ---
 title: Birds and Bagpipes
 author: George Ordiway, PhD
-date: '2026-04-DD'
+date: '2026-04-07'
 draft: false
 categories:
-  - Bird
+  - Birds
   - Music
   - Neuroscience
 image: photo.jpg
 bibliography: bibliography.bib
 resources:
-  - "*.mp3"
+  - "*.wav"
 ---
 
 Without a doubt, you've heard a bird sing before. It's a little less likely that
@@ -54,19 +54,31 @@ So how can a nine-note bagpipe and a one-song bird make beautiful music?
 "Scotland the Brave" is one of the most famous bagpiping tunes, and you don't
 need to know music theory to notice the simple melody of single notes:
 
+::: {.flex-container .align-center width='60%'}
+![](./GeorgeSimpleMusic.jpg)
+:::
+
 The notes go up, they come back down, it sounds great! Except, this is not what
 bagpipes actually sound like. The difficulty of bagpipes (besides constant
 breathing to inflate the bag) comes in the embellishments. There is an entire
 vocabulary of ornaments that require fast and precise hand movements. The actual
 sheet music for "Scotland the Brave" looks something like this:
 
+::: {.flex-container .align-center width='60%'}
+![](./GeorgeComplexMusic.jpg)
+:::
+
 Now you can start to appreciate what bagpipes have to offer. Put your bagpiper
 on a nearby hill, and the harmonic drones underlie all these fast grace notes
 and embellishments. You might be wondering if birds have embellishments, well
 see for yourself! (Don't worry I'll explain what this is).
 
-Caption: Spectrogram of a male zebra finch courtship song. In two seconds, this
-male sings one bout of two motifs of roughly five syllables each.
+::: {.flex-container .align-center width='100%'}
+![
+  Caption: Spectrogram of a male zebra finch courtship song. In two seconds,
+  this male sings one bout of two motifs of roughly five syllables each.
+](./GeorgeSpectrogram.jpg)
+:::
 
 Above is a spectrogram of the zebra finch song, a sort of "science sheet music"
 for looking at sounds and speech. The stacked color lines are a single "note"
@@ -76,9 +88,11 @@ zebra finch's song at full speed, and at 50% speed. Even when slowed down, it
 can be tough for our human ears to appreciate how fast this zebra finch is
 changing notes.
 
-{{< audio file="./ZF_song_normal.mp3" caption="Zebra finch song at full speed">}}
+::: {.flex-container .align-center }
+{{< audio file="./ZF_song_normal.wav" caption="Zebra finch song at full speed">}}
 
-{{< audio file="./ZF_song_slow.mp3" caption="Zebra finch song at 50% speed">}}
+{{< audio file="./ZF_song_slow.wav" caption="Zebra finch song at 50% speed">}}
+:::
 
 Finches learn their song from an adult tutor; young finches memorize and modify
 this tutor song over the next few months during a "critical period" of learning.
@@ -191,9 +205,10 @@ and Dungeons and Dragons.
 :::
 
 ::: {.flex-container .align-center}
-![](AUTHOR-PHOTO.jpg){width=70%}
+![](GeorgeBagpipes.jpg){width=30.5%}
+![](GeorgeJazz.jpg){width=50%}
 
-Caption: Left: George playing bagpipes in his school's Pipe and Drum Corps in
+Left: George playing bagpipes in his school's Pipe and Drum Corps in
 2011. Right: "Jazz, Birds, and the Brain", part of the Music on the Brain
 collaboration with the National Jazz Museum in Harlem and Columbia's Zuckerman
 Institute in 2025.
