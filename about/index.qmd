@@ -94,7 +94,7 @@ with expertise in science and science communication.
 
 :::: {.flex-container .align-center}
 ![
-    Katie Furman
+    Katie Furman, PhD
     <br>
     Graphic Design Lead
 ](/img/profiles/katie_furman.jpg)
@@ -134,6 +134,32 @@ with expertise in science and science communication.
 
 :::: {.flex-container .align-center}
 ![
+    Amanda White
+    <br>
+    Grants Specialist
+](/img/profiles/profile_Amanda_crop.jpg)
+::::
+
+<!--
+:::: {.flex-container .align-center}
+![
+    RA Vignesh
+    <br>
+    Social Media and Marketing Specialist
+](/img/profiles/vignesh_profile.jpg)
+::::
+-->
+:::
+
+<details>
+<summary>
+**Alumni**
+</summary>
+
+::: {layout-ncol=4}
+
+:::: {.flex-container .align-center}
+![
     <a href="https://www.linkedin.com/in/elizabet-w/">
     Elizabet Wendt
     </a>
@@ -141,4 +167,6 @@ with expertise in science and science communication.
     Illustrator & Marketing Specialist
 ](/img/profiles/elizabet_headshot.jpg)
 ::::
+
 :::
+</details>
