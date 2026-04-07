@@ -12,7 +12,7 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: false
-#include-after-body: subscribe-form.html
+image: /img/GogglesReflection_whitebg-03.png
 ---
 
 [Subscribe to our newsletter](/subscribe.qmd){.btn .btn-danger role="button"} &nbsp;
