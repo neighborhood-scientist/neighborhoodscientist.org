@@ -92,7 +92,7 @@ zebra finch's song at full speed, and at 50% speed. Even when slowed down, it
 can be tough for our human ears to appreciate how fast this zebra finch is
 changing notes.
 
-::: {.flex-container .align-center }
+::: {.flex-container .align-center id="birdsong-recording"}
 {{< audio file="./ZF_song_normal.wav" caption="Zebra finch song at full speed">}}
 
 {{< audio file="./ZF_song_slow.wav" caption="Zebra finch song at 50% speed">}}
