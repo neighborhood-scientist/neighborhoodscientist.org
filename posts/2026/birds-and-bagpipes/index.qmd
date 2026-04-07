@@ -79,7 +79,7 @@ see for yourself! (Don't worry I'll explain what this is).
 
 ::: {.flex-container .align-center width='100%'}
 ![
-  Caption: Spectrogram of a male zebra finch courtship song. In two seconds,
+  Spectrogram of a male zebra finch courtship song. In two seconds,
   this male sings one bout of two motifs of roughly five syllables each.
 ](./GeorgeSpectrogram.jpg)
 :::
