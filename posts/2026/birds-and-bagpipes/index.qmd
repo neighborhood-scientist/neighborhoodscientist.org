@@ -22,7 +22,7 @@ high school, and my current career is the scientific study of birdsong learning
 and perception. Turns out, there are more similarities than you might think.
 
 ::: {style="float: right; margin: 5px;"}
-![Bagpipes illustrated by <a href="https://github.com/katiefurms">Katie Furman</a>.](bagpipes.png){width=300px}
+![Bagpipes illustrated by <a href="https://www.linkedin.com/in/katherinefurman/">Katie Furman</a>.](bagpipes.png){width=300px}
 :::
 
 Bagpipes are not an indoor instrument. They can (and perhaps should) be heard
@@ -125,7 +125,7 @@ process to how human babies learn their first language. Here are some
 highlights:
 
 ::: {style="float: left; margin: 5px;"}
-![Zebra finch illustrated by <a href="https://github.com/katiefurms">Katie Furman</a>.](zebrafinch.png){width=300px}
+![Zebra finch illustrated by <a href="https://www.linkedin.com/in/katherinefurman/">Katie Furman</a>.](zebrafinch.png){width=300px}
 :::
 
 - Finches that don't learn a song still try to sing. What they sing does not
