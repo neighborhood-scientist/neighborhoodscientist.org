@@ -2,12 +2,12 @@
 title: Birds and Bagpipes
 author: George Ordiway, PhD
 date: '2026-04-07'
-draft: false
+draft: true
 categories:
   - Birds
   - Music
   - Neuroscience
-image: photo.jpg
+image: finch-and-bagpipe.png
 bibliography: bibliography.bib
 resources:
   - "*.wav"
@@ -20,6 +20,10 @@ are often avoided, and were classified as a weapon of war in 1700s England,
 which is a bit of an overreaction in my opinion. I played bagpipes all through
 high school, and my current career is the scientific study of birdsong learning
 and perception. Turns out, there are more similarities than you might think.
+
+::: {style="float: right; margin: 5px;"}
+![Bagpipes illustrated by <a href="https://github.com/katiefurms">Katie Furman</a>.](bagpipes.png){width=300px}
+:::
 
 Bagpipes are not an indoor instrument. They can (and perhaps should) be heard
 from far away because of how loud they can get. Birds are also quite loud; their
@@ -120,6 +124,10 @@ so important, the process of learning song is also important. It's a similar
 process to how human babies learn their first language. Here are some
 highlights:
 
+::: {style="float: left; margin: 5px;"}
+![Zebra finch illustrated by <a href="https://github.com/katiefurms">Katie Furman</a>.](zebrafinch.png){width=300px}
+:::
+
 - Finches that don't learn a song still try to sing. What they sing does not
   attract mates. [@alam_hidden_2024]
 - Finches sound like their tutor, even if their tutor is not their biological
@@ -187,10 +195,6 @@ article). No matter what, studying birdsong and playing the bagpipes are equally
 good conversation starters. If any of you are interested in studying bagpipes,
 birdsong, or any kind of science, I have two pieces of advice. Find yourself a
 good tutor, and don't forget to go outside.
-
-::: {.flex-container .align-center}
-![Illustrated by <a href="https://WEBSITE">ILLUSTRATOR</a>.](image.png){width=500px}
-:::
 
 <hr>
 
