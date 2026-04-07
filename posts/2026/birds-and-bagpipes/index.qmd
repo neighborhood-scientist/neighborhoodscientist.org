@@ -2,15 +2,15 @@
 title: Birds and Bagpipes
 author: George Ordiway, PhD
 date: '2026-04-07'
-draft: true
+draft: false
 categories:
-  - Birds
-  - Music
-  - Neuroscience
+- Birds
+- Music
+- Neuroscience
 image: finch-and-bagpipe.png
 bibliography: bibliography.bib
 resources:
-  - "*.wav"
+- '*.wav'
 ---
 
 Without a doubt, you've heard a bird sing before. It's a little less likely that
