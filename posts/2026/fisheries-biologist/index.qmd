@@ -11,7 +11,7 @@ image: ./fisheries-illustration.png
 lightbox: true
 ---
 
-When meeting new people and the inevitable question of "What do you do?" arises.
+When meeting new people and the inevitable question of "What do you do?" arises,
 I used to say "I'm a marine biologist." People naturally assumed I trained
 dolphins or went scuba diving every day, neither of which is true. I have
 recently described myself as a fisheries biologist, which is more accurate and
@@ -59,7 +59,7 @@ actually do?
 
 ## What do fisheries biologists do?
 
-Simply put, we ask questions, plan research projects,collect data, analyze it,
+Simply put, we ask questions, plan research projects, collect data, analyze it,
 present the results, then repeat. Most fisheries research takes an army of field
 biologists, laboratory scientists, and computer modelers to do all the stuff
 fisheries biologists do. Broadly, the data we use to answer our questions comes
