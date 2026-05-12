@@ -2,7 +2,7 @@
 title: What is a fisheries biologist?
 author: Brendan Turley, PhD
 date: '2026-05-08'
-draft: true
+draft: false
 categories:
 - Fisheries
 - Ecology
@@ -34,11 +34,10 @@ tend to study more than one fishery as a part of being a _fisheries_ biologist.
 
 A fisheries biologist studies the biology and ecology of the organism that is
 caught by fishermen. A fisheries biologist, however, also does many things that
-may be outside of what is thought of as straightforward biology. I will use red
-grouper or _Epinephelus morio_, a species with which I have extensive
-experience, as an example to illustrate this. Red grouper is a popular fish that
-lives around Florida and up to North Carolina. It is a common menu item in
-beachside restaurants in the Southeastern US - just look for the grouper
+may be outside of what is thought of as straightforward biology. For example, I
+have studied red grouper or _Epinephelus morio_. Red grouper is a popular fish
+that lives around Florida and up to North Carolina. It is a common menu item in
+beachside restaurants in the Southeastern US -- just look for the grouper
 sandwich. A fisheries biologist wants to know all about this species. How fast
 does it grow? How big does it get? Where do they live? What do they eat, or who
 eats them? We also want to know how many eggs a female can make, when they
@@ -60,13 +59,12 @@ actually do?
 
 ## What do fisheries biologists do?
 
-Simply put, we ask questions, plan research projects, we collect data, we
-analyze it, we present the results, then repeat. Most fisheries research takes
-an army of field biologists, laboratory scientists, and computer modelers to do
-all the stuff fisheries biologists do. Broadly, the data we use to answer our
-questions comes in two flavors: fisheries-dependent and fisheries-independent.
-Looking at these types of data should help you to understand what fisheries
-biologists do.
+Simply put, we ask questions, plan research projects,collect data, analyze it,
+present the results, then repeat. Most fisheries research takes an army of field
+biologists, laboratory scientists, and computer modelers to do all the stuff
+fisheries biologists do. Broadly, the data we use to answer our questions comes
+in two flavors: fisheries-dependent and fisheries-independent. Looking at these
+types of data should help you to understand what fisheries biologists do.
 
 Fisheries-dependent data comes from directly interacting with fishermen and the
 fishery. For example some of the data include, how many pounds of fish were
@@ -117,7 +115,7 @@ spawn soon, or to see what these fish ate. To my laboratory comrades, forgive
 me, I know I have simplified a lot, and this part is integral to fisheries
 biology, but I am a field biologist.
 
-## Putting the Pieces Together
+## Why is Fisheries Biology Important
 
 My goal has been to introduce you to fisheries biology, though there is so much
 more depth to the topic. My task is not complete without explaining the
@@ -145,6 +143,10 @@ decide how best to manage the fishery based on science and public input. These
 last steps are crucial and sometimes require what are referred to as "fish
 politics" to ensure that the science is used accurately and to the fullest
 extent reasonable.
+
+::: {.flex-container .align-center}
+![A map of the regional Fishery Management Councils for the United States. <https://www.fisherycouncils.org/>](./RFMC-Map-2025.png)
+:::
 
 The US has some of the most sustainable fisheries in the world, and this is not
 possible without investment in good science and strong laws. Trust between
