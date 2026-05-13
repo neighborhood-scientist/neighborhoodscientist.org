@@ -2,7 +2,7 @@
 title: What is a fisheries biologist?
 author: Brendan Turley, PhD
 date: '2026-05-13'
-draft: true
+draft: false
 categories:
 - Fisheries
 - Ecology
