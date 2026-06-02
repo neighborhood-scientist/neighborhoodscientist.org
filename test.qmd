@@ -1,0 +1,6 @@
+---
+title: test
+---
+
+
+{{< video https://www.youtube-nocookie.com/embed/shVxFcVpCT0?si=-M1c5XTKKKrqt2dH >}}
