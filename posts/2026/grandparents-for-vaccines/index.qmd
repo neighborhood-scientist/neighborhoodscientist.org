@@ -7,6 +7,7 @@ categories:
 - Vaccines
 - Family
 - History
+image: grandparents-for-vaccines-10.png
 ---
 
 My first grandchild, Sam, was born last August. He's seven months old now and
@@ -91,6 +92,10 @@ vaccinate her kids. You may save a life.
 
 <hr>
 
+::: {.flex-container .align-center}
+![](./SharmaRothBlackboard.jpg){width=90%}
+:::
+
 ::: {.callout-note title="About the author" style="" icon=false}
 Brad Roth is a former NIH scientist who taught physics at Oakland University in
 Rochester, Michigan for 22 years. He is a coauthor of the textbook _Intermediate
@@ -102,6 +107,14 @@ to Grandparents For Vaccines, feel free to contact Brad at
 [grandparentsforvaccines@gmail.com](mailto:grandparentsforvaccines@gmail.com).
 :::
 
-::: {.flex-container .align-center}
-![](./SharmaRothBlackboard.jpg){width=70%}
+:::{.flex-container .align-center}
+[{{< fa brands youtube size=xl >}}](https://www.youtube.com/@GrandparentsforVaccines)
+[{{< fa brands facebook size=xl >}}](https://www.facebook.com/profile.php?id=61576610811699)
+[{{< fa brands instagram size=xl >}}](https://www.instagram.com/grandparentsforvaccines)
+[{{< fa brands tiktok size=xl >}}](https://www.tiktok.com/@grandparentsforvaccines/)
+[{{< fa brands linkedin size=xl >}}](https://www.linkedin.com/company/grandparents-for-vaccines)
+[{{< fa solid globe size=xl >}}](https://grandparentsforvaccines.org/)
+[{{< fa solid envelope size=xl >}}](mailto:grandparentsforvaccines@gmail.com)
+
+[![](./grandparents-for-vaccines-10.png){width=70%}](https://grandparentsforvaccines.org/)
 :::
