@@ -6,6 +6,7 @@ draft: false
 categories:
 - science communication
 - ocean conservation
+image: quick-facts_crop.png
 ---
 
 For most people, sharks and rays are often introduced through movies like Jaws,
@@ -52,6 +53,10 @@ Instagram posts comparing well-known sharks, including great white sharks and
 hammerheads, with lesser-known species such as pyjama sharks and ghost sharks.
 Each week featured a species spotlight, followed by interactive quizzes to test
 whether our audience was learning from the posts.
+
+::: {.flex-container .align-center}
+![](./quick-facts.png){width=100%}
+:::
 
 I expected well-known sharks to receive more engagement because they are widely
 featured in the media and are usually more recognizable. Instead, the results
