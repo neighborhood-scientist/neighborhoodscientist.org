@@ -19,6 +19,11 @@ listing:
       date: '2026-03-09'
       image: /img/posters/NSN_neuro.jpg
       path: https://luma.com/9q8kj77d
+    - title: "Hearing, communication, & hearing science"
+      author: Neighborhood Science Night
+      date: '2026-09-05'
+      image: /img/posters/YNS_Event_Flyer_Randa_Ismail.png
+      path: https://luma.com/4s04gjsh
   feed: true
   categories: false
   image-height: 350px
