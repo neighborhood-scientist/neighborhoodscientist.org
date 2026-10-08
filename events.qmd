@@ -7,13 +7,23 @@ listing:
     - title: Oceans! Coasts. Shores. Seafloors.
       author: Neighborhood Science Night
       date: '2025-12-05'
-      image: /img/oceans-coasts-shores-seafloors.png
+      image: /img/posters/oceans-coasts-shores-seafloors.png
       path: https://luma.com/05a0p7wx
     - title: Brains, Biology, and Big Pharma
       author: Neighborhood Science Night
       date: '2025-09-29'
       image: /img/posters/YNS_Event_Poster_1_crop.png
       path: https://luma.com/m51ug5x1
+    - title: "NEURO: What happens in your brain when..."
+      author: Neighborhood Science Night
+      date: '2026-03-09'
+      image: /img/posters/NSN_neuro.jpg
+      path: https://luma.com/9q8kj77d
+    - title: "Hearing, communication, & hearing science"
+      author: Neighborhood Science Night
+      date: '2026-09-05'
+      image: /img/posters/YNS_Event_Flyer_Randa_Ismail.png
+      path: https://luma.com/4s04gjsh
   feed: true
   categories: false
   image-height: 350px
